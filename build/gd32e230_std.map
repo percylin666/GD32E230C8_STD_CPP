@@ -1,0 +1,2380 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-exit.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/crt0.o (exit)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-init.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/crt0.o (__libc_init_array)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                              build/apps/main.o (memcpy)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memset.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/crt0.o (memset)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-reent.o)
+                              build/firmware/cmsis/src/syscalls.o (errno)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-strlen.o)
+                              build/apps/main.o (strlen)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-freer.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-reent.o) (_free_r)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-freer.o) (__malloc_free_list)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-sbrkr.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-mlock.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+ .text          0x00000000       0x80 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x20 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/crt0.o
+ .text          0x00000000        0x0 build/firmware/cmsis/src/system_gd32e23x.o
+ .data          0x00000000        0x0 build/firmware/cmsis/src/system_gd32e23x.o
+ .bss           0x00000000        0x0 build/firmware/cmsis/src/system_gd32e23x.o
+ .text.SystemCoreClockUpdate
+                0x00000000      0x106 build/firmware/cmsis/src/system_gd32e23x.o
+ .rodata        0x00000000       0x10 build/firmware/cmsis/src/system_gd32e23x.o
+ .text          0x00000000        0x0 build/firmware/cmsis/src/syscalls.o
+ .data          0x00000000        0x0 build/firmware/cmsis/src/syscalls.o
+ .bss           0x00000000        0x0 build/firmware/cmsis/src/syscalls.o
+ .text._sbrk    0x00000000       0x3e build/firmware/cmsis/src/syscalls.o
+ .text._gettimeofday
+                0x00000000        0xc build/firmware/cmsis/src/syscalls.o
+ .text.initialise_monitor_handles
+                0x00000000        0x2 build/firmware/cmsis/src/syscalls.o
+ .text._getpid  0x00000000        0x4 build/firmware/cmsis/src/syscalls.o
+ .text._kill    0x00000000       0x12 build/firmware/cmsis/src/syscalls.o
+ .text._exit    0x00000000        0xc build/firmware/cmsis/src/syscalls.o
+ .text._write   0x00000000       0x1c build/firmware/cmsis/src/syscalls.o
+ .text._close   0x00000000        0x6 build/firmware/cmsis/src/syscalls.o
+ .text._fstat   0x00000000        0xa build/firmware/cmsis/src/syscalls.o
+ .text._isatty  0x00000000        0x4 build/firmware/cmsis/src/syscalls.o
+ .text._lseek   0x00000000        0x4 build/firmware/cmsis/src/syscalls.o
+ .text._read    0x00000000       0x1c build/firmware/cmsis/src/syscalls.o
+ .text._open    0x00000000        0xa build/firmware/cmsis/src/syscalls.o
+ .text._wait    0x00000000       0x12 build/firmware/cmsis/src/syscalls.o
+ .text._unlink  0x00000000       0x12 build/firmware/cmsis/src/syscalls.o
+ .text._times   0x00000000        0x6 build/firmware/cmsis/src/syscalls.o
+ .text._stat    0x00000000        0xa build/firmware/cmsis/src/syscalls.o
+ .text._link    0x00000000       0x12 build/firmware/cmsis/src/syscalls.o
+ .text._fork    0x00000000       0x12 build/firmware/cmsis/src/syscalls.o
+ .text._execve  0x00000000       0x12 build/firmware/cmsis/src/syscalls.o
+ .data.curbrk.0
+                0x00000000        0x4 build/firmware/cmsis/src/syscalls.o
+ .debug_info    0x00000000      0x8e0 build/firmware/cmsis/src/syscalls.o
+ .debug_abbrev  0x00000000      0x1da build/firmware/cmsis/src/syscalls.o
+ .debug_loc     0x00000000      0x438 build/firmware/cmsis/src/syscalls.o
+ .debug_aranges
+                0x00000000       0xb8 build/firmware/cmsis/src/syscalls.o
+ .debug_ranges  0x00000000       0xa8 build/firmware/cmsis/src/syscalls.o
+ .debug_line    0x00000000      0x4ad build/firmware/cmsis/src/syscalls.o
+ .debug_str     0x00000000      0x442 build/firmware/cmsis/src/syscalls.o
+ .comment       0x00000000       0x4a build/firmware/cmsis/src/syscalls.o
+ .debug_frame   0x00000000      0x174 build/firmware/cmsis/src/syscalls.o
+ .ARM.attributes
+                0x00000000       0x30 build/firmware/cmsis/src/syscalls.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_disable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_dma_mode_enable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_dma_mode_disable
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_tempsensor_vrefint_enable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_tempsensor_vrefint_disable
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_discontinuous_mode_config
+                0x00000000       0x64 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_inserted_channel_config
+                0x00000000       0x6e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_inserted_channel_offset_config
+                0x00000000       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_inserted_data_read
+                0x00000000       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_interrupt_flag_get
+                0x00000000       0x8e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_interrupt_flag_clear
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_interrupt_enable
+                0x00000000       0x3e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_interrupt_disable
+                0x00000000       0x3e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_watchdog_single_channel_enable
+                0x00000000       0x2e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_watchdog_group_channel_enable
+                0x00000000       0x60 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_watchdog_disable
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_watchdog_threshold_config
+                0x00000000       0x1e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_resolution_config
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_oversample_mode_config
+                0x00000000       0x4c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_oversample_mode_enable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text.adc_oversample_mode_disable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .text.cmp_deinit
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .text.cmp_mode_init
+                0x00000000       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .text.cmp_output_init
+                0x00000000       0x38 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .text.cmp_enable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .text.cmp_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .text.cmp_switch_enable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .text.cmp_switch_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .text.cmp_output_level_get
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .text.cmp_lock_enable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .debug_info    0x00000000      0x2d3 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .debug_abbrev  0x00000000       0xfe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .debug_loc     0x00000000      0x121 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .debug_aranges
+                0x00000000       0x60 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .debug_ranges  0x00000000       0x50 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .debug_line    0x00000000      0x2da build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .debug_str     0x00000000      0x423 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .comment       0x00000000       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .debug_frame   0x00000000       0xac build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .ARM.attributes
+                0x00000000       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text.crc_deinit
+                0x00000000       0x44 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text.crc_reverse_output_data_enable
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text.crc_reverse_output_data_disable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text.crc_data_register_reset
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text.crc_data_register_read
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text.crc_free_data_register_read
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text.crc_free_data_register_write
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text.crc_init_data_register_write
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text.crc_input_data_reverse_config
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text.crc_polynomial_size_set
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text.crc_polynomial_set
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text.crc_single_data_calculate
+                0x00000000       0x38 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text.crc_block_data_calculate
+                0x00000000       0x5e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .debug_info    0x00000000      0x326 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .debug_abbrev  0x00000000      0x105 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .debug_loc     0x00000000      0x169 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .debug_aranges
+                0x00000000       0x80 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .debug_ranges  0x00000000       0x70 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .debug_line    0x00000000      0x3e4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .debug_str     0x00000000      0x36d build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .comment       0x00000000       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .debug_frame   0x00000000       0xe8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .ARM.attributes
+                0x00000000       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .text.dbg_deinit
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .text.dbg_id_get
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .text.dbg_low_power_enable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .text.dbg_low_power_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .text.dbg_periph_enable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .text.dbg_periph_disable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .debug_info    0x00000000      0x1d7 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .debug_abbrev  0x00000000       0xce build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .debug_loc     0x00000000       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .debug_aranges
+                0x00000000       0x48 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .debug_ranges  0x00000000       0x38 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .debug_line    0x00000000      0x22b build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .debug_str     0x00000000      0x2d4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .comment       0x00000000       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .debug_frame   0x00000000       0x70 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .ARM.attributes
+                0x00000000       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_deinit
+                0x00000000       0x4e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_struct_para_init
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_circulation_enable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_circulation_disable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_memory_to_memory_enable
+                0x00000000       0x1e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_memory_to_memory_disable
+                0x00000000       0x20 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_channel_enable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_channel_disable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_init
+                0x00000000       0xa4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_periph_address_config
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_memory_address_config
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_transfer_number_config
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_transfer_number_get
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_priority_config
+                0x00000000       0x24 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_memory_width_config
+                0x00000000       0x24 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_periph_width_config
+                0x00000000       0x24 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_memory_increase_enable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_memory_increase_disable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_periph_increase_enable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_periph_increase_disable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_transfer_direction_config
+                0x00000000       0x36 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_flag_get
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_flag_clear
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_interrupt_flag_get
+                0x00000000       0x8a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_interrupt_flag_clear
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_interrupt_enable
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text.dma_interrupt_disable
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .debug_info    0x00000000      0x848 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .debug_abbrev  0x00000000      0x1b2 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .debug_loc     0x00000000      0x70d build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .debug_aranges
+                0x00000000       0xf0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .debug_ranges  0x00000000       0xe0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .debug_line    0x00000000      0x6e2 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .debug_str     0x00000000      0x520 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .comment       0x00000000       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .debug_frame   0x00000000      0x1d4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .ARM.attributes
+                0x00000000       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .text.exti_deinit
+                0x00000000       0x3a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .text.exti_interrupt_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .text.exti_event_enable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .text.exti_event_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .text.exti_software_interrupt_enable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .text.exti_software_interrupt_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .text.exti_flag_get
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .text.exti_flag_clear
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_unlock
+                0x00000000       0x2c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_lock
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_wscnt_set
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_prefetch_enable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_prefetch_disable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.ob_unlock
+                0x00000000       0x3a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.ob_lock  0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.ob_reset
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.option_byte_value_get
+                0x00000000        0x4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.ob_user_get
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.ob_data_get
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.ob_write_protection_get
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.ob_obstat_plevel_get
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_interrupt_enable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_interrupt_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_flag_get
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_flag_clear
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_interrupt_flag_get
+                0x00000000       0x4c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_interrupt_flag_clear
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_state_get
+                0x00000000       0x3a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_ready_wait
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_page_erase
+                0x00000000       0x42 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_mass_erase
+                0x00000000       0x36 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_doubleword_program
+                0x00000000       0x6c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.fmc_word_program
+                0x00000000       0x34 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.ob_erase
+                0x00000000       0xac build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.ob_write_protection_enable
+                0x00000000       0x5a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.ob_security_protection_config
+                0x00000000       0xb0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.ob_user_write
+                0x00000000       0xa6 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text.ob_data_program
+                0x00000000       0x52 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .debug_info    0x00000000      0x961 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .debug_abbrev  0x00000000      0x1fa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .debug_loc     0x00000000      0x93f build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .debug_aranges
+                0x00000000      0x108 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .debug_ranges  0x00000000       0xf8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .debug_line    0x00000000      0x9bc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .debug_str     0x00000000      0x4de build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .comment       0x00000000       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .debug_frame   0x00000000      0x264 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .ARM.attributes
+                0x00000000       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .text.fwdgt_write_disable
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .text.fwdgt_prescaler_value_config
+                0x00000000       0x40 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .text.fwdgt_reload_value_config
+                0x00000000       0x46 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .text.fwdgt_window_value_config
+                0x00000000       0x46 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .text.fwdgt_flag_get
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .text.gpio_deinit
+                0x00000000       0x82 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .text.gpio_bit_reset
+                0x00000000        0x4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .text.gpio_port_write
+                0x00000000        0x4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .text.gpio_input_port_get
+                0x00000000        0x6 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .text.gpio_output_bit_get
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .text.gpio_output_port_get
+                0x00000000        0x6 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .text.gpio_pin_lock
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .text.gpio_bit_toggle
+                0x00000000        0x4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .text.gpio_port_toggle
+                0x00000000        0x8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_deinit
+                0x00000000       0x40 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_smbus_type_config
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_ackpos_config
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_dualaddr_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_dualaddr_disable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_disable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_dma_enable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_dma_last_transfer_config
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_stretch_scl_low_config
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_slave_response_to_gcall_config
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_software_reset_config
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_pec_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_pec_transfer_enable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_pec_value_get
+                0x00000000        0x8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_smbus_issue_alert
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_smbus_arp_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_sam_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_sam_disable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_sam_timeout_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_sam_timeout_disable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_interrupt_enable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_interrupt_disable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_interrupt_flag_get
+                0x00000000       0x6a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text.i2c_interrupt_flag_clear
+                0x00000000       0x28 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .text.nvic_irq_disable
+                0x00000000       0x28 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .text.nvic_system_reset
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .text.system_lowpower_set
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .text.system_lowpower_reset
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .text.systick_clksource_set
+                0x00000000       0x28 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .text.pmu_deinit
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .text.pmu_lvd_select
+                0x00000000       0x28 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .text.pmu_ldo_output_select
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .text.pmu_lvd_disable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .text.pmu_to_sleepmode
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .text.pmu_to_deepsleepmode
+                0x00000000       0x46 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .text.pmu_to_standbymode
+                0x00000000       0x58 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .text.pmu_wakeup_pin_enable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .text.pmu_wakeup_pin_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .text.pmu_backup_write_disable
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .text.pmu_flag_clear
+                0x00000000       0x2a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .text.pmu_flag_get
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_deinit
+                0x00000000       0xb4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_periph_clock_disable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_periph_clock_sleep_enable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_periph_clock_sleep_disable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_system_clock_source_config
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_system_clock_source_get
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_ahb_clock_config
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_apb1_clock_config
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_apb2_clock_config
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_ckout_config
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_pll_config
+                0x00000000       0x22 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_usart_clock_config
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_hxtal_prediv_config
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_lxtal_drive_capability_config
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_all_reset_flag_clear
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_interrupt_flag_get
+                0x00000000       0x20 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_interrupt_flag_clear
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_interrupt_enable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_interrupt_disable
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_osci_off
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_osci_bypass_mode_enable
+                0x00000000       0x48 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_osci_bypass_mode_disable
+                0x00000000       0x4c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_hxtal_clock_monitor_enable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_hxtal_clock_monitor_disable
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_irc8m_adjust_value_set
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_irc28m_adjust_value_set
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_voltage_key_unlock
+                0x00000000       0x1e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text.rcu_deepsleep_voltage_set
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_deinit
+                0x00000000       0xa2 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_subsecond_get
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_alarm_config
+                0x00000000       0x56 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_alarm_subsecond_config
+                0x00000000       0x22 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_alarm_enable
+                0x00000000       0x28 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_alarm_disable
+                0x00000000       0x60 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_alarm_get
+                0x00000000       0x42 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_alarm_subsecond_get
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_timestamp_enable
+                0x00000000       0x34 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_timestamp_disable
+                0x00000000       0x2c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_timestamp_get
+                0x00000000       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_timestamp_subsecond_get
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_tamper_enable
+                0x00000000       0xd4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_tamper_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_interrupt_enable
+                0x00000000       0x3c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_interrupt_disable
+                0x00000000       0x3c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_flag_get
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_flag_clear
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_alter_output_config
+                0x00000000       0x58 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_calibration_config
+                0x00000000       0x58 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_hour_adjust
+                0x00000000       0x24 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_second_adjust
+                0x00000000       0x66 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_bypass_shadow_enable
+                0x00000000       0x26 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_bypass_shadow_disable
+                0x00000000       0x26 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_refclock_detection_enable
+                0x00000000       0x40 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text.rtc_refclock_detection_disable
+                0x00000000       0x40 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_i2s_deinit
+                0x00000000       0x3e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_disable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.i2s_init
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.i2s_psc_config
+                0x00000000       0x78 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.i2s_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.i2s_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_nss_output_enable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_nss_output_disable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_nss_internal_high
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_nss_internal_low
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_dma_enable
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_dma_disable
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_i2s_data_frame_format_config
+                0x00000000       0x50 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_bidirectional_transfer_config
+                0x00000000       0x24 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_crc_polynomial_set
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_crc_polynomial_get
+                0x00000000        0x6 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_crc_on
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_crc_off
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_crc_next
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_crc_get
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_ti_mode_enable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_ti_mode_disable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_nssp_mode_enable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_nssp_mode_disable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.qspi_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.qspi_disable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.qspi_write_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.qspi_read_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.qspi_io23_output_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.qspi_io23_output_disable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_i2s_interrupt_enable
+                0x00000000       0x2a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_i2s_interrupt_disable
+                0x00000000       0x2a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_i2s_interrupt_flag_get
+                0x00000000       0x68 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .rodata.spi_i2s_interrupt_flag_get
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_crc_error_clear
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_fifo_access_size_config
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_transmit_odd_config
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_receive_odd_config
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text.spi_crc_length_set
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .text.syscfg_deinit
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .text.syscfg_dma_remap_enable
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .text.syscfg_dma_remap_disable
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .text.syscfg_high_current_enable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .text.syscfg_high_current_disable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .text.syscfg_lock_config
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .text.irq_latency_set
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .text.syscfg_flag_get
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .text.syscfg_flag_clear
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_disable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_auto_reload_shadow_enable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_auto_reload_shadow_disable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_update_event_enable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_update_event_disable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_counter_alignment
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_counter_up_direction
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_counter_down_direction
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_prescaler_config
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_repetition_value_config
+                0x00000000        0x4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_autoreload_value_config
+                0x00000000        0x4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_counter_value_config
+                0x00000000        0x4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_counter_read
+                0x00000000        0x4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_prescaler_read
+                0x00000000        0x6 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_single_pulse_mode_config
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_update_source_config
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_ocpre_clear_source_config
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_interrupt_disable
+                0x00000000        0x8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_flag_get
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_flag_clear
+                0x00000000        0x6 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_dma_enable
+                0x00000000        0x8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_dma_disable
+                0x00000000        0x8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_channel_dma_request_source_select
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_dma_transfer_config
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_event_software_generate
+                0x00000000        0x8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_break_struct_para_init
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_break_config
+                0x00000000       0x24 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_break_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_break_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_automatic_output_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_automatic_output_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_channel_control_shadow_config
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_channel_control_shadow_update_config
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_channel_output_fast_config
+                0x00000000       0x58 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_channel_output_clear_config
+                0x00000000       0x58 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_channel_output_polarity_config
+                0x00000000       0x60 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_channel_complementary_output_polarity_config
+                0x00000000       0x60 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_channel_output_state_config
+                0x00000000       0x60 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_channel_complementary_output_state_config
+                0x00000000       0x44 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_channel_input_struct_para_init
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_channel_input_capture_prescaler_config
+                0x00000000       0x58 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_input_capture_config
+                0x00000000      0x150 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_channel_capture_value_register_read
+                0x00000000       0x28 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_input_pwm_capture_config
+                0x00000000      0x158 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_hall_mode_config
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_input_trigger_source_select
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_master_output_trigger_source_select
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_slave_mode_select
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_master_slave_mode_config
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_external_trigger_config
+                0x00000000       0x20 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_quadrature_decoder_mode_config
+                0x00000000       0x44 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_internal_clock_config
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_internal_trigger_as_external_clock_config
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_external_trigger_as_external_clock_config
+                0x00000000       0xa4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_external_clock_mode0_config
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_external_clock_mode1_config
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_external_clock_mode1_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_channel_remap_config
+                0x00000000        0x4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_write_chxval_register_config
+                0x00000000       0x1e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text.timer_output_value_selection_config
+                0x00000000       0x1e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_disable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_data_first_config
+                0x00000000       0x24 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_invert_config
+                0x00000000       0x80 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .rodata.usart_invert_config
+                0x00000000       0x20 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_overrun_enable
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_overrun_disable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_oversample_config
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_sample_bit_config
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_receiver_timeout_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_receiver_timeout_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_receiver_timeout_threshold_config
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_data_receive
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_autobaud_detection_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_autobaud_detection_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_autobaud_detection_mode_config
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_address_config
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_address_detection_mode_config
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_mute_mode_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_mute_mode_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_mute_mode_wakeup_config
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_lin_mode_enable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_lin_mode_disable
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_lin_break_detection_length_config
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_halfduplex_enable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_halfduplex_disable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_clock_enable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_clock_disable
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_synchronous_clock_config
+                0x00000000       0x3c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_guard_time_config
+                0x00000000       0x24 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_smartcard_mode_enable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_smartcard_mode_disable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_smartcard_mode_nack_enable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_smartcard_mode_nack_disable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_smartcard_mode_early_nack_enable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_smartcard_mode_early_nack_disable
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_smartcard_autoretry_config
+                0x00000000       0x24 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_block_length_config
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_irda_mode_enable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_irda_mode_disable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_prescaler_config
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_irda_lowpower_config
+                0x00000000       0x1a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_hardware_flow_rts_config
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_hardware_flow_cts_config
+                0x00000000       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_hardware_flow_coherence_config
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_rs485_driver_enable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_rs485_driver_disable
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_driver_assertime_config
+                0x00000000       0x24 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_driver_deassertime_config
+                0x00000000       0x24 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_depolarity_config
+                0x00000000       0x24 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_dma_receive_config
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_dma_transmit_config
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_reception_error_dma_disable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_reception_error_dma_enable
+                0x00000000       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_wakeup_enable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_wakeup_disable
+                0x00000000        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_wakeup_mode_config
+                0x00000000       0x24 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_receive_fifo_enable
+                0x00000000        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_receive_fifo_disable
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_receive_fifo_counter_number
+                0x00000000        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_flag_clear
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_interrupt_enable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_interrupt_disable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_command_enable
+                0x00000000        0x8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_interrupt_flag_get
+                0x00000000       0x3a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text.usart_interrupt_flag_clear
+                0x00000000       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .text          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .data          0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .bss           0x00000000        0x0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .text.wwdgt_deinit
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .text.wwdgt_enable
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .text.wwdgt_counter_update
+                0x00000000       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .text.wwdgt_config
+                0x00000000       0x1e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .text.wwdgt_interrupt_enable
+                0x00000000       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .text.wwdgt_flag_get
+                0x00000000       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .text.wwdgt_flag_clear
+                0x00000000       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .debug_info    0x00000000      0x2a0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .debug_abbrev  0x00000000      0x147 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .debug_loc     0x00000000       0x6a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .debug_aranges
+                0x00000000       0x50 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .debug_ranges  0x00000000       0x40 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .debug_line    0x00000000      0x270 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .debug_str     0x00000000      0x393 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .comment       0x00000000       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .debug_frame   0x00000000       0x88 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .ARM.attributes
+                0x00000000       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+ .text          0x00000000        0x0 build/apps/gd32e23x_it.o
+ .data          0x00000000        0x0 build/apps/gd32e23x_it.o
+ .bss           0x00000000        0x0 build/apps/gd32e23x_it.o
+ .text.TIMER0_IRQHandler
+                0x00000000        0x2 build/apps/gd32e23x_it.o
+ .text          0x00000000        0x0 build/common/system.o
+ .data          0x00000000        0x0 build/common/system.o
+ .bss           0x00000000        0x0 build/common/system.o
+ .text.sys_delay_us
+                0x00000000       0x4e build/common/system.o
+ .text.sys_delay_ms
+                0x00000000       0x16 build/common/system.o
+ .debug_info    0x00000000      0x1c9 build/common/system.o
+ .debug_abbrev  0x00000000      0x111 build/common/system.o
+ .debug_loc     0x00000000      0x175 build/common/system.o
+ .debug_aranges
+                0x00000000       0x28 build/common/system.o
+ .debug_ranges  0x00000000       0x18 build/common/system.o
+ .debug_line    0x00000000      0x1e7 build/common/system.o
+ .debug_str     0x00000000      0x1c1 build/common/system.o
+ .comment       0x00000000       0x4a build/common/system.o
+ .debug_frame   0x00000000       0x44 build/common/system.o
+ .ARM.attributes
+                0x00000000       0x30 build/common/system.o
+ .group         0x00000000        0x8 build/apps/main.o
+ .group         0x00000000        0x8 build/apps/main.o
+ .group         0x00000000        0x8 build/apps/main.o
+ .group         0x00000000        0x8 build/apps/main.o
+ .group         0x00000000        0xc build/apps/main.o
+ .group         0x00000000        0xc build/apps/main.o
+ .group         0x00000000        0xc build/apps/main.o
+ .group         0x00000000        0xc build/apps/main.o
+ .group         0x00000000        0xc build/apps/main.o
+ .group         0x00000000        0xc build/apps/main.o
+ .group         0x00000000        0xc build/apps/main.o
+ .group         0x00000000        0xc build/apps/main.o
+ .group         0x00000000        0xc build/apps/main.o
+ .text          0x00000000        0x0 build/apps/main.o
+ .data          0x00000000        0x0 build/apps/main.o
+ .bss           0x00000000        0x0 build/apps/main.o
+ .text          0x00000000        0x0 build/drivers/adc.o
+ .data          0x00000000        0x0 build/drivers/adc.o
+ .bss           0x00000000        0x0 build/drivers/adc.o
+ .text          0x00000000        0x0 build/drivers/exti.o
+ .data          0x00000000        0x0 build/drivers/exti.o
+ .bss           0x00000000        0x0 build/drivers/exti.o
+ .text          0x00000000        0x0 build/drivers/flash.o
+ .data          0x00000000        0x0 build/drivers/flash.o
+ .bss           0x00000000        0x0 build/drivers/flash.o
+ .text._ZN5Flash18flash_sector_eraseEm
+                0x00000000       0x46 build/drivers/flash.o
+ .text          0x00000000        0x0 build/drivers/fwd.o
+ .data          0x00000000        0x0 build/drivers/fwd.o
+ .bss           0x00000000        0x0 build/drivers/fwd.o
+ .text          0x00000000        0x0 build/drivers/i2c.o
+ .data          0x00000000        0x0 build/drivers/i2c.o
+ .bss           0x00000000        0x0 build/drivers/i2c.o
+ .text          0x00000000        0x0 build/drivers/key.o
+ .data          0x00000000        0x0 build/drivers/key.o
+ .bss           0x00000000        0x0 build/drivers/key.o
+ .text          0x00000000        0x0 build/drivers/led.o
+ .data          0x00000000        0x0 build/drivers/led.o
+ .bss           0x00000000        0x0 build/drivers/led.o
+ .text._ZN3Led4readEv
+                0x00000000        0x4 build/drivers/led.o
+ .text          0x00000000        0x0 build/drivers/rgb_led.o
+ .data          0x00000000        0x0 build/drivers/rgb_led.o
+ .bss           0x00000000        0x0 build/drivers/rgb_led.o
+ .text          0x00000000        0x0 build/drivers/rtc.o
+ .data          0x00000000        0x0 build/drivers/rtc.o
+ .bss           0x00000000        0x0 build/drivers/rtc.o
+ .text          0x00000000        0x0 build/drivers/spi.o
+ .data          0x00000000        0x0 build/drivers/spi.o
+ .bss           0x00000000        0x0 build/drivers/spi.o
+ .text          0x00000000        0x0 build/drivers/timer.o
+ .data          0x00000000        0x0 build/drivers/timer.o
+ .bss           0x00000000        0x0 build/drivers/timer.o
+ .text._ZN5Timer5startEv
+                0x00000000        0xa build/drivers/timer.o
+ .text._ZN5Timer4stopEv
+                0x00000000        0xa build/drivers/timer.o
+ .text._ZN5Timer5resetEv
+                0x00000000       0x1a build/drivers/timer.o
+ .text          0x00000000        0x0 build/drivers/uart.o
+ .data          0x00000000        0x0 build/drivers/uart.o
+ .bss           0x00000000        0x0 build/drivers/uart.o
+ .text._ZN10UartDevicelsEc
+                0x00000000       0x1a build/drivers/uart.o
+ .text          0x00000000        0x0 build/drivers/wwd.o
+ .data          0x00000000        0x0 build/drivers/wwd.o
+ .bss           0x00000000        0x0 build/drivers/wwd.o
+ .text._ZN9WWatchdog4initEv
+                0x00000000       0x1e build/drivers/wwd.o
+ .text._ZN9WWatchdog8feed_dogEv
+                0x00000000        0xa build/drivers/wwd.o
+ .debug_info    0x00000000      0x308 build/drivers/wwd.o
+ .debug_abbrev  0x00000000      0x174 build/drivers/wwd.o
+ .debug_loc     0x00000000       0x97 build/drivers/wwd.o
+ .debug_aranges
+                0x00000000       0x28 build/drivers/wwd.o
+ .debug_ranges  0x00000000       0x18 build/drivers/wwd.o
+ .debug_line    0x00000000      0x1af build/drivers/wwd.o
+ .debug_str     0x00000000      0x3ad build/drivers/wwd.o
+ .comment       0x00000000       0x4a build/drivers/wwd.o
+ .debug_frame   0x00000000       0x40 build/drivers/wwd.o
+ .ARM.attributes
+                0x00000000       0x30 build/drivers/wwd.o
+ .text          0x00000000       0x14 build/gcc_startup/startup_gd32e23x.o
+ .data          0x00000000        0x0 build/gcc_startup/startup_gd32e23x.o
+ .bss           0x00000000        0x0 build/gcc_startup/startup_gd32e23x.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x18 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xb0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-reent.o)
+ .bss.errno     0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x00000000       0x48 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x00000000       0x8c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x40 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x00000000       0xec c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000000       0x50 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000       0x10 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000       0x10 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000000       0x40 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .debug_frame   0x00000000       0xb0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+ .rodata        0x00000000       0x24 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00010000         xr
+RAM              0x20000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp/crt0.o
+LOAD build/firmware/cmsis/src/system_gd32e23x.o
+LOAD build/firmware/cmsis/src/syscalls.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_cmp.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_crc.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dbg.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_dma.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fmc.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+LOAD build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_wwdgt.o
+LOAD build/apps/gd32e23x_it.o
+LOAD build/common/system.o
+LOAD build/apps/main.o
+LOAD build/drivers/adc.o
+LOAD build/drivers/exti.o
+LOAD build/drivers/flash.o
+LOAD build/drivers/fwd.o
+LOAD build/drivers/i2c.o
+LOAD build/drivers/key.o
+LOAD build/drivers/led.o
+LOAD build/drivers/rgb_led.o
+LOAD build/drivers/rtc.o
+LOAD build/drivers/spi.o
+LOAD build/drivers/timer.o
+LOAD build/drivers/uart.o
+LOAD build/drivers/wwd.o
+LOAD build/gcc_startup/startup_gd32e23x.o
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libstdc++_nano.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libm.a
+START GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a
+END GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtend.o
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+                0x00000800                __stack_size = DEFINED (__stack_size)?__stack_size:0x800
+                0x00000400                __heap_size = DEFINED (__heap_size)?__heap_size:0x400
+
+.vectors        0x08000000       0xcc
+                0x08000000                . = ALIGN (0x4)
+ *(.vectors)
+ .vectors       0x08000000       0xcc build/gcc_startup/startup_gd32e23x.o
+                0x08000000                __gVectors
+                0x080000cc                . = ALIGN (0x4)
+                0x080000cc                __Vectors_End = .
+                0x080000cc                __Vectors_Size = (__Vectors_End - __gVectors)
+
+.text           0x080000cc     0x32b0
+                0x080000cc                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080000cc       0x50 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+ .text          0x0800011c        0xe c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-strlen.o)
+                0x0800011c                strlen
+ *(.text*)
+ .text.system_clock_72m_hxtal
+                0x0800012a       0xc4 build/firmware/cmsis/src/system_gd32e23x.o
+ .text.system_clock_config
+                0x080001ee        0x8 build/firmware/cmsis/src/system_gd32e23x.o
+ *fill*         0x080001f6        0x2 
+ .text.SystemInit
+                0x080001f8       0xbc build/firmware/cmsis/src/system_gd32e23x.o
+                0x080001f8                SystemInit
+ .text.adc_deinit
+                0x080002b4       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                0x080002b4                adc_deinit
+ .text.adc_enable
+                0x080002c8       0x20 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                0x080002c8                adc_enable
+ .text.adc_calibration_enable
+                0x080002e8       0x3e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                0x080002e8                adc_calibration_enable
+ *fill*         0x08000326        0x2 
+ .text.adc_special_function_config
+                0x08000328       0x8c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                0x08000328                adc_special_function_config
+ .text.adc_data_alignment_config
+                0x080003b4       0x2c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                0x080003b4                adc_data_alignment_config
+ .text.adc_channel_length_config
+                0x080003e0       0x58 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                0x080003e0                adc_channel_length_config
+ .text.adc_regular_channel_config
+                0x08000438       0xac build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                0x08000438                adc_regular_channel_config
+ .text.adc_external_trigger_config
+                0x080004e4       0x64 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                0x080004e4                adc_external_trigger_config
+ .text.adc_external_trigger_source_config
+                0x08000548       0x44 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                0x08000548                adc_external_trigger_source_config
+ .text.adc_software_trigger_enable
+                0x0800058c       0x2e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                0x0800058c                adc_software_trigger_enable
+ .text.adc_regular_data_read
+                0x080005ba        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                0x080005ba                adc_regular_data_read
+ .text.adc_flag_get
+                0x080005c8       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                0x080005c8                adc_flag_get
+ .text.adc_flag_clear
+                0x080005de       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                0x080005de                adc_flag_clear
+ .text.exti_init
+                0x080005ee       0xc8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+                0x080005ee                exti_init
+ .text.exti_interrupt_enable
+                0x080006b6       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+                0x080006b6                exti_interrupt_enable
+ .text.exti_interrupt_flag_get
+                0x080006c6       0x16 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+                0x080006c6                exti_interrupt_flag_get
+ .text.exti_interrupt_flag_clear
+                0x080006dc        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+                0x080006dc                exti_interrupt_flag_clear
+ .text.fwdgt_write_enable
+                0x080006e8       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+                0x080006e8                fwdgt_write_enable
+ .text.fwdgt_enable
+                0x080006f8       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+                0x080006f8                fwdgt_enable
+ .text.fwdgt_counter_reload
+                0x08000708       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+                0x08000708                fwdgt_counter_reload
+ .text.fwdgt_config
+                0x08000718       0x84 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+                0x08000718                fwdgt_config
+ .text.gpio_mode_set
+                0x0800079c       0x4e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+                0x0800079c                gpio_mode_set
+ .text.gpio_output_options_set
+                0x080007ea       0x3e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+                0x080007ea                gpio_output_options_set
+ .text.gpio_bit_set
+                0x08000828        0x4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+                0x08000828                gpio_bit_set
+ .text.gpio_bit_write
+                0x0800082c        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+                0x0800082c                gpio_bit_write
+ .text.gpio_input_bit_get
+                0x08000836        0xe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+                0x08000836                gpio_input_bit_get
+ .text.gpio_af_set
+                0x08000844       0x58 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+                0x08000844                gpio_af_set
+ .text.i2c_clock_config
+                0x0800089c      0x134 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+                0x0800089c                i2c_clock_config
+ .text.i2c_mode_addr_config
+                0x080009d0       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+                0x080009d0                i2c_mode_addr_config
+ .text.i2c_ack_config
+                0x080009e8       0x20 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+                0x080009e8                i2c_ack_config
+ .text.i2c_master_addressing
+                0x08000a08       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+                0x08000a08                i2c_master_addressing
+ .text.i2c_enable
+                0x08000a1a        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+                0x08000a1a                i2c_enable
+ .text.i2c_start_on_bus
+                0x08000a24        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+                0x08000a24                i2c_start_on_bus
+ .text.i2c_stop_on_bus
+                0x08000a30        0xc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+                0x08000a30                i2c_stop_on_bus
+ .text.i2c_data_transmit
+                0x08000a3c        0x4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+                0x08000a3c                i2c_data_transmit
+ .text.i2c_data_receive
+                0x08000a40        0x6 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+                0x08000a40                i2c_data_receive
+ .text.i2c_flag_get
+                0x08000a46       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+                0x08000a46                i2c_flag_get
+ .text.i2c_flag_clear
+                0x08000a5e       0x22 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+                0x08000a5e                i2c_flag_clear
+ .text.nvic_irq_enable
+                0x08000a80       0x90 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+                0x08000a80                nvic_irq_enable
+ .text.nvic_vector_table_set
+                0x08000b10       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+                0x08000b10                nvic_vector_table_set
+ .text.pmu_backup_write_enable
+                0x08000b2c       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+                0x08000b2c                pmu_backup_write_enable
+ .text.rcu_periph_clock_enable
+                0x08000b40       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+                0x08000b40                rcu_periph_clock_enable
+ .text.rcu_periph_reset_enable
+                0x08000b5c       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+                0x08000b5c                rcu_periph_reset_enable
+ .text.rcu_periph_reset_disable
+                0x08000b78       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+                0x08000b78                rcu_periph_reset_disable
+ .text.rcu_bkp_reset_enable
+                0x08000b94       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+                0x08000b94                rcu_bkp_reset_enable
+ .text.rcu_bkp_reset_disable
+                0x08000ba8       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+                0x08000ba8                rcu_bkp_reset_disable
+ .text.rcu_adc_clock_config
+                0x08000bc0      0x1c4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+                0x08000bc0                rcu_adc_clock_config
+ .text.rcu_rtc_clock_config
+                0x08000d84       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+                0x08000d84                rcu_rtc_clock_config
+ .text.rcu_flag_get
+                0x08000da0       0x20 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+                0x08000da0                rcu_flag_get
+ .text.rcu_osci_stab_wait
+                0x08000dc0      0x130 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+                0x08000dc0                rcu_osci_stab_wait
+ .text.rcu_osci_on
+                0x08000ef0       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+                0x08000ef0                rcu_osci_on
+ .text.rcu_clock_freq_get
+                0x08000f0c      0x200 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+                0x08000f0c                rcu_clock_freq_get
+ .text.rtc_init_mode_enter
+                0x0800110c       0x46 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+                0x0800110c                rtc_init_mode_enter
+ .text.rtc_init_mode_exit
+                0x08001152       0x12 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+                0x08001152                rtc_init_mode_exit
+ .text.rtc_register_sync_wait
+                0x08001164       0x6c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+                0x08001164                rtc_register_sync_wait
+ .text.rtc_init
+                0x080011d0       0xc2 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+                0x080011d0                rtc_init
+ .text.rtc_current_time_get
+                0x08001292       0x78 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+                0x08001292                rtc_current_time_get
+ .text.spi_struct_para_init
+                0x0800130a       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+                0x0800130a                spi_struct_para_init
+ *fill*         0x0800131e        0x2 
+ .text.spi_init
+                0x08001320       0x90 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+                0x08001320                spi_init
+ .text.spi_enable
+                0x080013b0        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+                0x080013b0                spi_enable
+ .text.spi_i2s_data_transmit
+                0x080013ba       0x1e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+                0x080013ba                spi_i2s_data_transmit
+ .text.spi_i2s_data_receive
+                0x080013d8       0x22 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+                0x080013d8                spi_i2s_data_receive
+ .text.spi_i2s_flag_get
+                0x080013fa       0x32 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+                0x080013fa                spi_i2s_flag_get
+ .text.syscfg_exti_line_config
+                0x0800142c       0x70 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+                0x0800142c                syscfg_exti_line_config
+ .text.timer_deinit
+                0x0800149c       0xe0 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                0x0800149c                timer_deinit
+ .text.timer_struct_para_init
+                0x0800157c       0x14 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                0x0800157c                timer_struct_para_init
+ .text.timer_init
+                0x08001590       0xd4 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                0x08001590                timer_init
+ .text.timer_enable
+                0x08001664        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                0x08001664                timer_enable
+ .text.timer_interrupt_enable
+                0x0800166e        0x8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                0x0800166e                timer_interrupt_enable
+ .text.timer_interrupt_flag_get
+                0x08001676       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                0x08001676                timer_interrupt_flag_get
+ .text.timer_interrupt_flag_clear
+                0x0800168e        0x6 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                0x0800168e                timer_interrupt_flag_clear
+ .text.timer_primary_output_config
+                0x08001694       0x20 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                0x08001694                timer_primary_output_config
+ .text.timer_channel_output_struct_para_init
+                0x080016b4       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                0x080016b4                timer_channel_output_struct_para_init
+ .text.timer_channel_output_config
+                0x080016c4      0x248 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                0x080016c4                timer_channel_output_config
+ .text.timer_channel_output_mode_config
+                0x0800190c       0x58 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                0x0800190c                timer_channel_output_mode_config
+ .text.timer_channel_output_pulse_value_config
+                0x08001964       0x20 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                0x08001964                timer_channel_output_pulse_value_config
+ .text.timer_channel_output_shadow_config
+                0x08001984       0x58 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                0x08001984                timer_channel_output_shadow_config
+ .text.usart_deinit
+                0x080019dc       0x3e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+                0x080019dc                usart_deinit
+ .text.usart_baudrate_set
+                0x08001a1a       0x64 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+                0x08001a1a                usart_baudrate_set
+ *fill*         0x08001a7e        0x2 
+ .text.usart_parity_config
+                0x08001a80       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+                0x08001a80                usart_parity_config
+ .text.usart_word_length_set
+                0x08001a9c       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+                0x08001a9c                usart_word_length_set
+ .text.usart_stop_bit_set
+                0x08001ab8       0x1c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+                0x08001ab8                usart_stop_bit_set
+ .text.usart_enable
+                0x08001ad4        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+                0x08001ad4                usart_enable
+ .text.usart_transmit_config
+                0x08001ade       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+                0x08001ade                usart_transmit_config
+ .text.usart_receive_config
+                0x08001aee       0x10 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+                0x08001aee                usart_receive_config
+ .text.usart_data_transmit
+                0x08001afe        0xa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+                0x08001afe                usart_data_transmit
+ .text.usart_flag_get
+                0x08001b08       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+                0x08001b08                usart_flag_get
+ .text.SysTick_Handler
+                0x08001b20        0xe build/apps/gd32e23x_it.o
+                0x08001b20                SysTick_Handler
+ .text.EXTI0_1_IRQHandler
+                0x08001b2e       0x20 build/apps/gd32e23x_it.o
+                0x08001b2e                EXTI0_1_IRQHandler
+ .text.EXTI2_3_IRQHandler
+                0x08001b4e        0x2 build/apps/gd32e23x_it.o
+                0x08001b4e                EXTI2_3_IRQHandler
+ .text.EXTI4_15_IRQHandler
+                0x08001b50        0x2 build/apps/gd32e23x_it.o
+                0x08001b50                EXTI4_15_IRQHandler
+ .text.TIMER2_IRQHandler
+                0x08001b52       0x26 build/apps/gd32e23x_it.o
+                0x08001b52                TIMER2_IRQHandler
+ .text._ZN4Conv6to_hexIhEENS_10HexWrapperIT_EES2_
+                0x08001b78        0x2 build/apps/main.o
+                0x08001b78                Conv::HexWrapper<unsigned char> Conv::to_hex<unsigned char>(unsigned char)
+ .text._ZN4Conv6to_hexIiEENS_10HexWrapperIT_EES2_
+                0x08001b7a        0x2 build/apps/main.o
+                0x08001b7a                Conv::HexWrapper<int> Conv::to_hex<int>(int)
+ .text._ZN4Conv6to_hexImEENS_10HexWrapperIT_EES2_
+                0x08001b7c        0x2 build/apps/main.o
+                0x08001b7c                Conv::HexWrapper<unsigned long> Conv::to_hex<unsigned long>(unsigned long)
+ .text._ZN4Conv6to_hexItEENS_10HexWrapperIT_EES2_
+                0x08001b7e        0x2 build/apps/main.o
+                0x08001b7e                Conv::HexWrapper<unsigned short> Conv::to_hex<unsigned short>(unsigned short)
+ .text._ZN4Conv4itoaIhEEvT_Pci
+                0x08001b80       0x4c build/apps/main.o
+                0x08001b80                void Conv::itoa<unsigned char>(unsigned char, char*, int)
+ .text._ZN10UartDevicelsIhEERS_N4Conv10HexWrapperIT_EE
+                0x08001bcc       0x36 build/apps/main.o
+                0x08001bcc                UartDevice& UartDevice::operator<< <unsigned char>(Conv::HexWrapper<unsigned char>)
+ .text._ZN4Conv4itoaIiEEvT_Pci
+                0x08001c02       0x5e build/apps/main.o
+                0x08001c02                void Conv::itoa<int>(int, char*, int)
+ .text._ZN10UartDevicelsIiEERS_N4Conv10HexWrapperIT_EE
+                0x08001c60       0x36 build/apps/main.o
+                0x08001c60                UartDevice& UartDevice::operator<< <int>(Conv::HexWrapper<int>)
+ .text._ZN10UartDevicelsIiEENSt9enable_ifIXsrSt11is_integralIT_E5valueERS_E4typeES3_
+                0x08001c96       0x26 build/apps/main.o
+                0x08001c96                std::enable_if<std::is_integral<int>::value, UartDevice&>::type UartDevice::operator<< <int>(int)
+ .text._ZN4Conv4itoaImEEvT_Pci
+                0x08001cbc       0x4a build/apps/main.o
+                0x08001cbc                void Conv::itoa<unsigned long>(unsigned long, char*, int)
+ .text._ZN10UartDevicelsImEERS_N4Conv10HexWrapperIT_EE
+                0x08001d06       0x36 build/apps/main.o
+                0x08001d06                UartDevice& UartDevice::operator<< <unsigned long>(Conv::HexWrapper<unsigned long>)
+ .text._ZN4Conv4itoaItEEvT_Pci
+                0x08001d3c       0x4e build/apps/main.o
+                0x08001d3c                void Conv::itoa<unsigned short>(unsigned short, char*, int)
+ .text._ZN10UartDevicelsItEERS_N4Conv10HexWrapperIT_EE
+                0x08001d8a       0x36 build/apps/main.o
+                0x08001d8a                UartDevice& UartDevice::operator<< <unsigned short>(Conv::HexWrapper<unsigned short>)
+ .text.main     0x08001dc0      0x682 build/apps/main.o
+                0x08001dc0                main
+ .text._ZN3Adc4initEv
+                0x08002442       0x7a build/drivers/adc.o
+                0x08002442                Adc::init()
+ .text._ZN3Adc11readChannelEv
+                0x080024bc       0x1e build/drivers/adc.o
+                0x080024bc                Adc::readChannel()
+ .text._ZN4Exti4initEv
+                0x080024da       0x8a build/drivers/exti.o
+                0x080024da                Exti::init()
+ .text._ZN4ExtiC2E15rcu_periph_enummm19exti_trig_type_enum
+                0x08002564       0x1a build/drivers/exti.o
+                0x08002564                Exti::Exti(rcu_periph_enum, unsigned long, unsigned long, exti_trig_type_enum)
+                0x08002564                Exti::Exti(rcu_periph_enum, unsigned long, unsigned long, exti_trig_type_enum)
+ .text._ZN5Flash19flash_read_jedec_idEv
+                0x0800257e       0x58 build/drivers/flash.o
+                0x0800257e                Flash::flash_read_jedec_id()
+ .text._ZN5Flash18flash_write_enableEv
+                0x080025d6       0x1c build/drivers/flash.o
+                0x080025d6                Flash::flash_write_enable()
+ .text._ZN5Flash19flash_wait_for_busyEv
+                0x080025f2       0x2c build/drivers/flash.o
+                0x080025f2                Flash::flash_wait_for_busy()
+ .text._ZN5Flash18flash_page_programEmPht
+                0x0800261e       0x5e build/drivers/flash.o
+                0x0800261e                Flash::flash_page_program(unsigned long, unsigned char*, unsigned short)
+ .text._ZN5Flash15flash_read_dataEmPht
+                0x0800267c       0x60 build/drivers/flash.o
+                0x0800267c                Flash::flash_read_data(unsigned long, unsigned char*, unsigned short)
+ .text._ZN5Flash10flash_testEPtt
+                0x080026dc       0x52 build/drivers/flash.o
+                0x080026dc                Flash::flash_test(unsigned short*, unsigned short)
+ .text._ZN9FWatchdog4initEv
+                0x0800272e       0x2c build/drivers/fwd.o
+                0x0800272e                FWatchdog::init()
+ .text._ZN9FWatchdog8feed_dogEv
+                0x0800275a        0x8 build/drivers/fwd.o
+                0x0800275a                FWatchdog::feed_dog()
+ .text._ZN9I2CDevice4initEv
+                0x08002762       0xe0 build/drivers/i2c.o
+                0x08002762                I2CDevice::init()
+ .text._ZN9I2CDeviceC2Emm
+                0x08002842       0x10 build/drivers/i2c.o
+                0x08002842                I2CDevice::I2CDevice(unsigned long, unsigned long)
+                0x08002842                I2CDevice::I2CDevice(unsigned long, unsigned long)
+ .text._ZN9I2CDevice5writeEhhh
+                0x08002852       0x76 build/drivers/i2c.o
+                0x08002852                I2CDevice::write(unsigned char, unsigned char, unsigned char)
+ .text._ZN9I2CDevice4readEhh
+                0x080028c8       0xac build/drivers/i2c.o
+                0x080028c8                I2CDevice::read(unsigned char, unsigned char)
+ .text._ZN3Key9isPressedEv
+                0x08002974       0x28 build/drivers/key.o
+                0x08002974                Key::isPressed()
+ .text._ZN3KeyC2E15rcu_periph_enummm10FlagStatus
+                0x0800299c       0x2c build/drivers/key.o
+                0x0800299c                Key::Key(rcu_periph_enum, unsigned long, unsigned long, FlagStatus)
+                0x0800299c                Key::Key(rcu_periph_enum, unsigned long, unsigned long, FlagStatus)
+ .text._ZN3Key4scanEv
+                0x080029c8       0x5a build/drivers/key.o
+                0x080029c8                Key::scan()
+ .text._ZN3Led5writeEb
+                0x08002a22       0x1a build/drivers/led.o
+                0x08002a22                Led::write(bool)
+ .text._ZN3Led4initEv
+                0x08002a3c       0x36 build/drivers/led.o
+                0x08002a3c                Led::init()
+ .text._ZN3LedC2E15rcu_periph_enummm15LED_INIT_STATUS
+                0x08002a72       0x16 build/drivers/led.o
+                0x08002a72                Led::Led(rcu_periph_enum, unsigned long, unsigned long, LED_INIT_STATUS)
+                0x08002a72                Led::Led(rcu_periph_enum, unsigned long, unsigned long, LED_INIT_STATUS)
+ .text._ZN3Led6toggleEv
+                0x08002a88       0x20 build/drivers/led.o
+                0x08002a88                Led::toggle()
+ .text._ZN6RGBLed8setColorEttt
+                0x08002aa8       0x26 build/drivers/rgb_led.o
+                0x08002aa8                RGBLed::setColor(unsigned short, unsigned short, unsigned short)
+ .text._ZN3Rtc4initEv
+                0x08002ace       0x9c build/drivers/rtc.o
+                0x08002ace                Rtc::init()
+ .text._ZN3Rtc3setER7RtcTime
+                0x08002b6a       0xb2 build/drivers/rtc.o
+                0x08002b6a                Rtc::set(RtcTime&)
+ .text._ZN3Rtc3getEv
+                0x08002c1c       0x7e build/drivers/rtc.o
+                0x08002c1c                Rtc::get()
+ .text._ZN9SpiDevice4initEv
+                0x08002c9a      0x15a build/drivers/spi.o
+                0x08002c9a                SpiDevice::init()
+ .text._ZN9SpiDeviceC2Emm
+                0x08002df4       0x10 build/drivers/spi.o
+                0x08002df4                SpiDevice::SpiDevice(unsigned long, unsigned long)
+                0x08002df4                SpiDevice::SpiDevice(unsigned long, unsigned long)
+ .text._ZN9SpiDevice11nss_controlE9NSS_LEVEL
+                0x08002e04       0x50 build/drivers/spi.o
+                0x08002e04                SpiDevice::nss_control(NSS_LEVEL)
+ .text._ZN9SpiDevice13ReadWriteByteEh
+                0x08002e54       0x30 build/drivers/spi.o
+                0x08002e54                SpiDevice::ReadWriteByte(unsigned char)
+ .text._ZN5Timer4initEv
+                0x08002e84      0x27c build/drivers/timer.o
+                0x08002e84                Timer::init()
+ .text._ZN5TimerC2Emm10TIMER_MODE
+                0x08003100       0x16 build/drivers/timer.o
+                0x08003100                Timer::Timer(unsigned long, unsigned long, TIMER_MODE)
+                0x08003100                Timer::Timer(unsigned long, unsigned long, TIMER_MODE)
+ .text._ZN5Timer15setCompareValueEm
+                0x08003116       0x16 build/drivers/timer.o
+                0x08003116                Timer::setCompareValue(unsigned long)
+ .text._ZN10UartDevice4initEv
+                0x0800312c      0x11c build/drivers/uart.o
+                0x0800312c                UartDevice::init()
+ .text._ZN10UartDeviceC2Emm
+                0x08003248       0x10 build/drivers/uart.o
+                0x08003248                UartDevice::UartDevice(unsigned long, unsigned long)
+                0x08003248                UartDevice::UartDevice(unsigned long, unsigned long)
+ .text._ZN10UartDevice5writeEPKcj
+                0x08003258       0x2a build/drivers/uart.o
+                0x08003258                UartDevice::write(char const*, unsigned int)
+ .text._ZN10UartDevicelsEPKc
+                0x08003282       0x1a build/drivers/uart.o
+                0x08003282                UartDevice::operator<<(char const*)
+ .text.Reset_Handler
+                0x0800329c       0x50 build/gcc_startup/startup_gd32e23x.o
+                0x0800329c                Reset_Handler
+ .text.Default_Handler
+                0x080032ec        0x2 build/gcc_startup/startup_gd32e23x.o
+                0x080032ec                TIMER5_IRQHandler
+                0x080032ec                LVD_IRQHandler
+                0x080032ec                HardFault_Handler
+                0x080032ec                TIMER15_IRQHandler
+                0x080032ec                PendSV_Handler
+                0x080032ec                NMI_Handler
+                0x080032ec                I2C0_EV_IRQHandler
+                0x080032ec                ADC_CMP_IRQHandler
+                0x080032ec                SPI1_IRQHandler
+                0x080032ec                TAMPER_IRQHandler
+                0x080032ec                DMA_Channel3_4_IRQHandler
+                0x080032ec                TIMER14_IRQHandler
+                0x080032ec                TIMER16_IRQHandler
+                0x080032ec                I2C0_ER_IRQHandler
+                0x080032ec                RTC_IRQHandler
+                0x080032ec                USART0_IRQHandler
+                0x080032ec                TIMER13_IRQHandler
+                0x080032ec                I2C1_EV_IRQHandler
+                0x080032ec                Default_Handler
+                0x080032ec                WWDGT_IRQHandler
+                0x080032ec                TIMER0_BRK_UP_TRG_COM_IRQHandler
+                0x080032ec                SVC_Handler
+                0x080032ec                DMA_Channel1_2_IRQHandler
+                0x080032ec                RCU_IRQHandler
+                0x080032ec                TIMER0_Channel_IRQHandler
+                0x080032ec                SPI0_IRQHandler
+                0x080032ec                DMA_Channel0_IRQHandler
+                0x080032ec                USART1_IRQHandler
+                0x080032ec                I2C1_ER_IRQHandler
+                0x080032ec                FMC_IRQHandler
+ *fill*         0x080032ee        0x2 
+ .text.__libc_init_array
+                0x080032f0       0x50 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-init.o)
+                0x080032f0                __libc_init_array
+ .text.memcpy   0x08003340       0x12 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                0x08003340                memcpy
+ .text.memset   0x08003352       0x10 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memset.o)
+                0x08003352                memset
+ *(.glue_7)
+ .glue_7        0x08003362        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08003362        0x0 linker stubs
+ *(.eh_frame)
+ *fill*         0x08003362        0x2 
+ .eh_frame      0x08003364        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+ *(.init)
+ .init          0x08003364        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+                0x08003364                _init
+ .init          0x08003368        0x8 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+ *(.fini)
+ .fini          0x08003370        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+                0x08003370                _fini
+ .fini          0x08003374        0x8 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+                0x0800337c                . = ALIGN (0x4)
+                0x0800337c                _etext = .
+
+.vfp11_veneer   0x0800337c        0x0
+ .vfp11_veneer  0x0800337c        0x0 linker stubs
+
+.v4_bx          0x0800337c        0x0
+ .v4_bx         0x0800337c        0x0 linker stubs
+
+.iplt           0x0800337c        0x0
+ .iplt          0x0800337c        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+
+.rodata         0x0800337c      0x1bc
+                0x0800337c                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x0800337c       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ *(.rodata*)
+ .rodata.rcu_adc_clock_config
+                0x08003394       0x28 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .rodata.rcu_clock_freq_get
+                0x080033bc       0x18 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .rodata._ZN4Conv4itoaIhEEvT_Pci.str1.4
+                0x080033d4       0x25 build/apps/main.o
+ *fill*         0x080033f9        0x3 
+ .rodata._ZN10UartDevicelsIhEERS_N4Conv10HexWrapperIT_EE.str1.4
+                0x080033fc        0x3 build/apps/main.o
+ *fill*         0x080033ff        0x1 
+ .rodata.main.str1.4
+                0x08003400      0x137 build/apps/main.o
+                                0x13f (size before relaxing)
+                0x08003538                . = ALIGN (0x4)
+ *fill*         0x08003537        0x1 
+
+.rel.dyn        0x08003538        0x0
+ .rel.iplt      0x08003538        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08003538        0x0
+                0x08003538                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08003538                __exidx_end = .
+
+.ARM.attributes
+                0x08003538       0x2c
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x08003538       0x22 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crti.o
+ .ARM.attributes
+                0x0800355a       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+ .ARM.attributes
+                0x0800358a       0x30 build/firmware/cmsis/src/system_gd32e23x.o
+ .ARM.attributes
+                0x080035ba       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .ARM.attributes
+                0x080035ea       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .ARM.attributes
+                0x0800361a       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .ARM.attributes
+                0x0800364a       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .ARM.attributes
+                0x0800367a       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .ARM.attributes
+                0x080036aa       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .ARM.attributes
+                0x080036da       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .ARM.attributes
+                0x0800370a       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .ARM.attributes
+                0x0800373a       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .ARM.attributes
+                0x0800376a       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .ARM.attributes
+                0x0800379a       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .ARM.attributes
+                0x080037ca       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .ARM.attributes
+                0x080037fa       0x30 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .ARM.attributes
+                0x0800382a       0x30 build/apps/gd32e23x_it.o
+ .ARM.attributes
+                0x0800385a       0x30 build/apps/main.o
+ .ARM.attributes
+                0x0800388a       0x30 build/drivers/adc.o
+ .ARM.attributes
+                0x080038ba       0x30 build/drivers/exti.o
+ .ARM.attributes
+                0x080038ea       0x30 build/drivers/flash.o
+ .ARM.attributes
+                0x0800391a       0x30 build/drivers/fwd.o
+ .ARM.attributes
+                0x0800394a       0x30 build/drivers/i2c.o
+ .ARM.attributes
+                0x0800397a       0x30 build/drivers/key.o
+ .ARM.attributes
+                0x080039aa       0x30 build/drivers/led.o
+ .ARM.attributes
+                0x080039da       0x30 build/drivers/rgb_led.o
+ .ARM.attributes
+                0x08003a0a       0x30 build/drivers/rtc.o
+ .ARM.attributes
+                0x08003a3a       0x30 build/drivers/spi.o
+ .ARM.attributes
+                0x08003a6a       0x30 build/drivers/timer.o
+ .ARM.attributes
+                0x08003a9a       0x30 build/drivers/uart.o
+ .ARM.attributes
+                0x08003aca       0x22 build/gcc_startup/startup_gd32e23x.o
+ .ARM.attributes
+                0x08003aec       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x08003b1c       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x08003b4c       0x30 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x08003b7c       0x1c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x08003b98       0x22 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtn.o
+
+.preinit_array  0x08003538        0x0
+                0x08003538                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08003538                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08003538        0x4
+                0x08003538                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08003538        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+                0x0800353c                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0800353c        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(.fini_array*)
+ .fini_array    0x0800353c        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+ *(SORT_BY_NAME(.fini_array.*))
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x08003540                _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x8 load address 0x08003540
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 build/firmware/cmsis/src/system_gd32e23x.o
+                0x20000000                SystemCoreClock
+ .data._ZZ4mainE12is_fading_up
+                0x20000004        0x1 build/apps/main.o
+                0x20000008                . = ALIGN (0x4)
+ *fill*         0x20000005        0x3 
+                0x20000008                _edata = .
+
+.igot.plt       0x20000008        0x0 load address 0x08003548
+ .igot.plt      0x20000008        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+                0x20000008                . = ALIGN (0x4)
+
+.bss            0x20000008       0x28 load address 0x08003548
+                0x20000008                . = ALIGN (0x4)
+                0x20000008                _sbss = .
+                0x20000008                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000008       0x1c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp/crtbegin.o
+ *(.bss*)
+ .bss.g_ext0_flag
+                0x20000024        0x1 build/apps/gd32e23x_it.o
+                0x20000024                g_ext0_flag
+ .bss.g_systick_flag
+                0x20000025        0x1 build/apps/gd32e23x_it.o
+                0x20000025                g_systick_flag
+ *fill*         0x20000026        0x2 
+ .bss._ZZN3Rtc3getEvE12current_time
+                0x20000028        0x7 build/drivers/rtc.o
+ *(COMMON)
+                0x20000030                . = ALIGN (0x4)
+ *fill*         0x2000002f        0x1 
+                0x20000030                _ebss = .
+                0x20000030                __bss_end__ = _ebss
+
+.heap_stack     0x20000030      0xc00 load address 0x08003548
+                0x20000030                . = ALIGN (0x8)
+                [!provide]                PROVIDE (end = _ebss)
+                0x20000030                PROVIDE (_end = _ebss)
+                0x20000430                . = (. + __heap_size)
+ *fill*         0x20000030      0x400 
+                0x20000430                PROVIDE (_heap_end = .)
+                0x20000c30                . = (. + __stack_size)
+ *fill*         0x20000430      0x800 
+                0x20000c30                PROVIDE (_sp = .)
+                0x20000c30                . = ALIGN (0x8)
+START GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v8-m.base/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libm.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libnosys.a
+END GROUP
+OUTPUT(build/gd32e230_std.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000    0x1357d
+ .debug_info    0x00000000      0x2d9 build/firmware/cmsis/src/system_gd32e23x.o
+ .debug_info    0x000002d9      0x8e9 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .debug_info    0x00000bc2      0x414 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .debug_info    0x00000fd6      0x312 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .debug_info    0x000012e8      0x6b5 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .debug_info    0x0000199d      0xd79 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .debug_info    0x00002716      0x6ae build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .debug_info    0x00002dc4      0x484 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .debug_info    0x00003248      0xf21 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .debug_info    0x00004169      0xb9f build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .debug_info    0x00004d08      0xd5b build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .debug_info    0x00005a63      0x37b build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .debug_info    0x00005dde     0x184e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .debug_info    0x0000762c     0x1494 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .debug_info    0x00008ac0      0x362 build/apps/gd32e23x_it.o
+ .debug_info    0x00008e22     0x4045 build/apps/main.o
+ .debug_info    0x0000ce67      0x5b9 build/drivers/adc.o
+ .debug_info    0x0000d420      0x6ec build/drivers/exti.o
+ .debug_info    0x0000db0c      0x9a9 build/drivers/flash.o
+ .debug_info    0x0000e4b5      0x241 build/drivers/fwd.o
+ .debug_info    0x0000e6f6      0x8eb build/drivers/i2c.o
+ .debug_info    0x0000efe1      0x43f build/drivers/key.o
+ .debug_info    0x0000f420      0x528 build/drivers/led.o
+ .debug_info    0x0000f948      0x3a6 build/drivers/rgb_led.o
+ .debug_info    0x0000fcee      0x8ba build/drivers/rtc.o
+ .debug_info    0x000105a8      0x84a build/drivers/spi.o
+ .debug_info    0x00010df2      0xb5b build/drivers/timer.o
+ .debug_info    0x0001194d     0x1c30 build/drivers/uart.o
+
+.debug_abbrev   0x00000000     0x3d13
+ .debug_abbrev  0x00000000      0x196 build/firmware/cmsis/src/system_gd32e23x.o
+ .debug_abbrev  0x00000196      0x204 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .debug_abbrev  0x0000039a      0x107 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .debug_abbrev  0x000004a1       0xde build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .debug_abbrev  0x0000057f      0x23f build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .debug_abbrev  0x000007be      0x1f8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .debug_abbrev  0x000009b6      0x1c5 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .debug_abbrev  0x00000b7b      0x212 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .debug_abbrev  0x00000d8d      0x23f build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .debug_abbrev  0x00000fcc      0x291 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .debug_abbrev  0x0000125d      0x245 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .debug_abbrev  0x000014a2      0x171 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .debug_abbrev  0x00001613      0x228 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .debug_abbrev  0x0000183b      0x20f build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .debug_abbrev  0x00001a4a      0x117 build/apps/gd32e23x_it.o
+ .debug_abbrev  0x00001b61      0x72e build/apps/main.o
+ .debug_abbrev  0x0000228f      0x1c6 build/drivers/adc.o
+ .debug_abbrev  0x00002455      0x234 build/drivers/exti.o
+ .debug_abbrev  0x00002689      0x1c9 build/drivers/flash.o
+ .debug_abbrev  0x00002852      0x146 build/drivers/fwd.o
+ .debug_abbrev  0x00002998      0x1fd build/drivers/i2c.o
+ .debug_abbrev  0x00002b95      0x1f5 build/drivers/key.o
+ .debug_abbrev  0x00002d8a      0x258 build/drivers/led.o
+ .debug_abbrev  0x00002fe2      0x171 build/drivers/rgb_led.o
+ .debug_abbrev  0x00003153      0x27d build/drivers/rtc.o
+ .debug_abbrev  0x000033d0      0x26b build/drivers/spi.o
+ .debug_abbrev  0x0000363b      0x2a4 build/drivers/timer.o
+ .debug_abbrev  0x000038df      0x434 build/drivers/uart.o
+
+.debug_loc      0x00000000     0x8c43
+ .debug_loc     0x00000000      0x2ae build/firmware/cmsis/src/system_gd32e23x.o
+ .debug_loc     0x000002ae      0xa41 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .debug_loc     0x00000cef      0x20b build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .debug_loc     0x00000efa      0x3b3 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .debug_loc     0x000012ad      0x3fd build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .debug_loc     0x000016aa      0x8f6 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .debug_loc     0x00001fa0      0x192 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .debug_loc     0x00002132      0x14a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .debug_loc     0x0000227c      0xe03 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .debug_loc     0x0000307f      0x9b1 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .debug_loc     0x00003a30      0x866 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .debug_loc     0x00004296      0x16b build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .debug_loc     0x00004401     0x14fe build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .debug_loc     0x000058ff      0x886 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .debug_loc     0x00006185       0x40 build/apps/gd32e23x_it.o
+ .debug_loc     0x000061c5      0xf6e build/apps/main.o
+ .debug_loc     0x00007133       0xa4 build/drivers/adc.o
+ .debug_loc     0x000071d7      0x1e6 build/drivers/exti.o
+ .debug_loc     0x000073bd      0x4c6 build/drivers/flash.o
+ .debug_loc     0x00007883       0xac build/drivers/fwd.o
+ .debug_loc     0x0000792f      0x29f build/drivers/i2c.o
+ .debug_loc     0x00007bce      0x200 build/drivers/key.o
+ .debug_loc     0x00007dce      0x241 build/drivers/led.o
+ .debug_loc     0x0000800f       0xc1 build/drivers/rgb_led.o
+ .debug_loc     0x000080d0      0x2c8 build/drivers/rtc.o
+ .debug_loc     0x00008398      0x2af build/drivers/spi.o
+ .debug_loc     0x00008647      0x305 build/drivers/timer.o
+ .debug_loc     0x0000894c      0x2f7 build/drivers/uart.o
+
+.debug_aranges  0x00000000     0x1120
+ .debug_aranges
+                0x00000000       0x38 build/firmware/cmsis/src/system_gd32e23x.o
+ .debug_aranges
+                0x00000038      0x128 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .debug_aranges
+                0x00000160       0x78 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .debug_aranges
+                0x000001d8       0x60 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .debug_aranges
+                0x00000238       0x90 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .debug_aranges
+                0x000002c8      0x130 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .debug_aranges
+                0x000003f8       0x50 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .debug_aranges
+                0x00000448       0x80 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .debug_aranges
+                0x000004c8      0x150 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .debug_aranges
+                0x00000618      0x110 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .debug_aranges
+                0x00000728      0x178 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .debug_aranges
+                0x000008a0       0x68 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .debug_aranges
+                0x00000908      0x260 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .debug_aranges
+                0x00000b68      0x268 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .debug_aranges
+                0x00000dd0       0x48 build/apps/gd32e23x_it.o
+ .debug_aranges
+                0x00000e18       0x88 build/apps/main.o
+ .debug_aranges
+                0x00000ea0       0x28 build/drivers/adc.o
+ .debug_aranges
+                0x00000ec8       0x28 build/drivers/exti.o
+ .debug_aranges
+                0x00000ef0       0x50 build/drivers/flash.o
+ .debug_aranges
+                0x00000f40       0x28 build/drivers/fwd.o
+ .debug_aranges
+                0x00000f68       0x38 build/drivers/i2c.o
+ .debug_aranges
+                0x00000fa0       0x30 build/drivers/key.o
+ .debug_aranges
+                0x00000fd0       0x40 build/drivers/led.o
+ .debug_aranges
+                0x00001010       0x20 build/drivers/rgb_led.o
+ .debug_aranges
+                0x00001030       0x30 build/drivers/rtc.o
+ .debug_aranges
+                0x00001060       0x38 build/drivers/spi.o
+ .debug_aranges
+                0x00001098       0x48 build/drivers/timer.o
+ .debug_aranges
+                0x000010e0       0x40 build/drivers/uart.o
+
+.debug_ranges   0x00000000      0xfc0
+ .debug_ranges  0x00000000       0x28 build/firmware/cmsis/src/system_gd32e23x.o
+ .debug_ranges  0x00000028      0x118 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .debug_ranges  0x00000140       0x68 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .debug_ranges  0x000001a8       0x50 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .debug_ranges  0x000001f8       0x80 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .debug_ranges  0x00000278      0x120 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .debug_ranges  0x00000398       0x58 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .debug_ranges  0x000003f0       0x70 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .debug_ranges  0x00000460      0x140 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .debug_ranges  0x000005a0      0x100 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .debug_ranges  0x000006a0      0x168 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .debug_ranges  0x00000808       0x58 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .debug_ranges  0x00000860      0x250 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .debug_ranges  0x00000ab0      0x258 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .debug_ranges  0x00000d08       0x38 build/apps/gd32e23x_it.o
+ .debug_ranges  0x00000d40       0xc0 build/apps/main.o
+ .debug_ranges  0x00000e00       0x18 build/drivers/adc.o
+ .debug_ranges  0x00000e18       0x18 build/drivers/exti.o
+ .debug_ranges  0x00000e30       0x40 build/drivers/flash.o
+ .debug_ranges  0x00000e70       0x18 build/drivers/fwd.o
+ .debug_ranges  0x00000e88       0x28 build/drivers/i2c.o
+ .debug_ranges  0x00000eb0       0x20 build/drivers/key.o
+ .debug_ranges  0x00000ed0       0x30 build/drivers/led.o
+ .debug_ranges  0x00000f00       0x10 build/drivers/rgb_led.o
+ .debug_ranges  0x00000f10       0x20 build/drivers/rtc.o
+ .debug_ranges  0x00000f30       0x28 build/drivers/spi.o
+ .debug_ranges  0x00000f58       0x38 build/drivers/timer.o
+ .debug_ranges  0x00000f90       0x30 build/drivers/uart.o
+
+.debug_line     0x00000000     0xaf23
+ .debug_line    0x00000000      0x435 build/firmware/cmsis/src/system_gd32e23x.o
+ .debug_line    0x00000435      0xaaa build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .debug_line    0x00000edf      0x397 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .debug_line    0x00001276      0x43b build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .debug_line    0x000016b1      0x58e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .debug_line    0x00001c3f      0x926 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .debug_line    0x00002565      0x35e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .debug_line    0x000028c3      0x3d1 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .debug_line    0x00002c94      0xc5e build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .debug_line    0x000038f2      0xcad build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .debug_line    0x0000459f      0xae1 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .debug_line    0x00005080      0x34b build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .debug_line    0x000053cb     0x186f build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .debug_line    0x00006c3a      0xdce build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .debug_line    0x00007a08      0x25a build/apps/gd32e23x_it.o
+ .debug_line    0x00007c62      0xbfc build/apps/main.o
+ .debug_line    0x0000885e      0x26b build/drivers/adc.o
+ .debug_line    0x00008ac9      0x2a0 build/drivers/exti.o
+ .debug_line    0x00008d69      0x3bc build/drivers/flash.o
+ .debug_line    0x00009125      0x1ac build/drivers/fwd.o
+ .debug_line    0x000092d1      0x373 build/drivers/i2c.o
+ .debug_line    0x00009644      0x29d build/drivers/key.o
+ .debug_line    0x000098e1      0x288 build/drivers/led.o
+ .debug_line    0x00009b69      0x16f build/drivers/rgb_led.o
+ .debug_line    0x00009cd8      0x4d7 build/drivers/rtc.o
+ .debug_line    0x0000a1af      0x38b build/drivers/spi.o
+ .debug_line    0x0000a53a      0x465 build/drivers/timer.o
+ .debug_line    0x0000a99f      0x584 build/drivers/uart.o
+
+.debug_str      0x00000000     0x63b3
+ .debug_str     0x00000000      0x283 build/firmware/cmsis/src/system_gd32e23x.o
+                                0x2f2 (size before relaxing)
+ .debug_str     0x00000283      0x5b6 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+                                0x76a (size before relaxing)
+ .debug_str     0x00000839      0x275 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+                                0x40b (size before relaxing)
+ .debug_str     0x00000aae      0x151 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+                                0x2ed (size before relaxing)
+ .debug_str     0x00000bff      0x18c build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+                                0x46e (size before relaxing)
+ .debug_str     0x00000d8b      0x729 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+                                0xa23 (size before relaxing)
+ .debug_str     0x000014b4      0x3b7 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+                                0x56a (size before relaxing)
+ .debug_str     0x0000186b      0x177 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+                                0x481 (size before relaxing)
+ .debug_str     0x000019e2      0xa19 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+                                0xdce (size before relaxing)
+ .debug_str     0x000023fb      0x5ca build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+                                0x7da (size before relaxing)
+ .debug_str     0x000029c5      0x45f build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+                                0x7d5 (size before relaxing)
+ .debug_str     0x00002e24      0x17b build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+                                0x434 (size before relaxing)
+ .debug_str     0x00002f9f      0xb47 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+                                0xed3 (size before relaxing)
+ .debug_str     0x00003ae6      0xcfd build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+                               0x1052 (size before relaxing)
+ .debug_str     0x000047e3       0x9c build/apps/gd32e23x_it.o
+                                0x3e8 (size before relaxing)
+ .debug_str     0x0000487f     0x17b7 build/apps/main.o
+                               0x1e9d (size before relaxing)
+ .debug_str     0x00006036       0x33 build/drivers/adc.o
+                                0x601 (size before relaxing)
+ .debug_str     0x00006069       0x82 build/drivers/exti.o
+                                0x7cb (size before relaxing)
+ .debug_str     0x000060eb       0x2e build/drivers/flash.o
+                                0x469 (size before relaxing)
+ .debug_str     0x00006119       0x10 build/drivers/fwd.o
+                                0x2a1 (size before relaxing)
+ .debug_str     0x00006129       0x33 build/drivers/i2c.o
+                                0x643 (size before relaxing)
+ .debug_str     0x0000615c       0x3a build/drivers/key.o
+                                0x44d (size before relaxing)
+ .debug_str     0x00006196       0x58 build/drivers/led.o
+                                0x491 (size before relaxing)
+ .debug_str     0x000061ee       0x14 build/drivers/rgb_led.o
+                                0x370 (size before relaxing)
+ .debug_str     0x00006202       0x9d build/drivers/rtc.o
+                                0x5de (size before relaxing)
+ .debug_str     0x0000629f       0x55 build/drivers/spi.o
+                                0x549 (size before relaxing)
+ .debug_str     0x000062f4       0x82 build/drivers/timer.o
+                                0x902 (size before relaxing)
+ .debug_str     0x00006376       0x3d build/drivers/uart.o
+                                0xcd8 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 build/firmware/cmsis/src/system_gd32e23x.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .comment       0x00000049       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .comment       0x00000049       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .comment       0x00000049       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .comment       0x00000049       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .comment       0x00000049       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .comment       0x00000049       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .comment       0x00000049       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .comment       0x00000049       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .comment       0x00000049       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .comment       0x00000049       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .comment       0x00000049       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .comment       0x00000049       0x4a build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .comment       0x00000049       0x4a build/apps/gd32e23x_it.o
+ .comment       0x00000049       0x4a build/apps/main.o
+ .comment       0x00000049       0x4a build/drivers/adc.o
+ .comment       0x00000049       0x4a build/drivers/exti.o
+ .comment       0x00000049       0x4a build/drivers/flash.o
+ .comment       0x00000049       0x4a build/drivers/fwd.o
+ .comment       0x00000049       0x4a build/drivers/i2c.o
+ .comment       0x00000049       0x4a build/drivers/key.o
+ .comment       0x00000049       0x4a build/drivers/led.o
+ .comment       0x00000049       0x4a build/drivers/rgb_led.o
+ .comment       0x00000049       0x4a build/drivers/rtc.o
+ .comment       0x00000049       0x4a build/drivers/spi.o
+ .comment       0x00000049       0x4a build/drivers/timer.o
+ .comment       0x00000049       0x4a build/drivers/uart.o
+
+.debug_frame    0x00000000     0x2430
+ .debug_frame   0x00000000       0x6c build/firmware/cmsis/src/system_gd32e23x.o
+ .debug_frame   0x0000006c      0x268 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_adc.o
+ .debug_frame   0x000002d4       0xdc build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_exti.o
+ .debug_frame   0x000003b0       0xa8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_fwdgt.o
+ .debug_frame   0x00000458      0x138 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_gpio.o
+ .debug_frame   0x00000590      0x274 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_i2c.o
+ .debug_frame   0x00000804       0x94 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_misc.o
+ .debug_frame   0x00000898      0x104 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_pmu.o
+ .debug_frame   0x0000099c      0x2ac build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rcu.o
+ .debug_frame   0x00000c48      0x274 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_rtc.o
+ .debug_frame   0x00000ebc      0x300 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_spi.o
+ .debug_frame   0x000011bc       0xb8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_syscfg.o
+ .debug_frame   0x00001274      0x518 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_timer.o
+ .debug_frame   0x0000178c      0x4e8 build/firmware/GD32E23x_standard_peripheral/Source/gd32e23x_usart.o
+ .debug_frame   0x00001c74       0x80 build/apps/gd32e23x_it.o
+ .debug_frame   0x00001cf4      0x17c build/apps/main.o
+ .debug_frame   0x00001e70       0x40 build/drivers/adc.o
+ .debug_frame   0x00001eb0       0x44 build/drivers/exti.o
+ .debug_frame   0x00001ef4       0xec build/drivers/flash.o
+ .debug_frame   0x00001fe0       0x40 build/drivers/fwd.o
+ .debug_frame   0x00002020       0x80 build/drivers/i2c.o
+ .debug_frame   0x000020a0       0x58 build/drivers/key.o
+ .debug_frame   0x000020f8       0x80 build/drivers/led.o
+ .debug_frame   0x00002178       0x28 build/drivers/rgb_led.o
+ .debug_frame   0x000021a0       0x64 build/drivers/rtc.o
+ .debug_frame   0x00002204       0x78 build/drivers/spi.o
+ .debug_frame   0x0000227c       0xa4 build/drivers/timer.o
+ .debug_frame   0x00002320       0x9c build/drivers/uart.o
+ .debug_frame   0x000023bc       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x000023e8       0x28 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00002410       0x20 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.base/nofp\libc_nano.a(lib_a-memset.o)
