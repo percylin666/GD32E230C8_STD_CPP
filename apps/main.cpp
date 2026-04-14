@@ -268,15 +268,15 @@ int main(void) {
             }
 
             if (key1.scan() == true) {
-                uart0 << "Key1 Pressed.\r\n";
+                uart0 << "Key1 Pressed\r\n";
             }
             if (key2.scan() == true) {
-                uart0 << "Key2 Pressed.\r\n";
+                uart0 << "Key2 Pressed\r\n";
             }
 
             if (g_ext0_flag) {
                 g_ext0_flag = 0; // 清除标志位
-                uart0 << "EXTI Line 0 Interrupt Triggered.\r\n";
+                uart0 << "EXTI Line 0 Interrupt Triggered\r\n";
             }
         }
 
