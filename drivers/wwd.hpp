@@ -7,7 +7,7 @@ private:
     uint8_t m_counter_value;
     uint8_t m_window_value;
 
-    void init();
+    void init() const;
 
 public:
     WWatchdog(uint8_t counter_value = 0x7F, uint8_t window_value = 0x5F)
@@ -16,5 +16,5 @@ public:
     };
     ~WWatchdog() {}
 
-    void feed_dog(void);
+    void feed_dog(void) const;
 };

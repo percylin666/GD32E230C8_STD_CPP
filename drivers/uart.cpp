@@ -1,6 +1,6 @@
 #include "uart.hpp"
 
-void UartDevice::init() {
+void UartDevice::init() const{
     if (m_periph == USART0) {
         rcu_periph_clock_enable(RCU_USART0);
         rcu_periph_clock_enable(RCU_GPIOA); // USART0 的 TX/RX PA9/PA10
@@ -42,7 +42,7 @@ UartDevice::UartDevice(uint32_t usart_periph, uint32_t baud) : m_periph(usart_pe
     init();
 }
 
-void UartDevice::write(const char *data, size_t size) {
+void UartDevice::write(const char *data, size_t size) const {
     for (size_t i = 0; i < size; ++i) {
         // 等待发送缓冲区空
         while (usart_flag_get(m_periph, USART_FLAG_TBE) == RESET);
@@ -50,12 +50,12 @@ void UartDevice::write(const char *data, size_t size) {
     }
 }
 
-UartDevice& UartDevice::operator<<(char c) {
+const UartDevice& UartDevice::operator<<(char c) const {
     write(&c, 1);
     return *this;
 }
 
-UartDevice& UartDevice::operator<<(const char* str) {
+const UartDevice& UartDevice::operator<<(const char* str) const {
     write(str, strlen(str));
     return *this;
 }

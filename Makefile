@@ -1,3 +1,5 @@
+# 这句命令是在 Windows 上使用 cmd.exe 作为默认 shell，确保 Makefile 中的命令能够正确执行
+# 在安装了git后，默认的shell可能是bash，这会导致一些命令（如mkdir）无法正确执行。通过设置SHELL变量为cmd.exe，可以确保在Windows环境下使用正确的命令解释器。
 SHELL := cmd.exe
 
 # --- 静默控制逻辑 ---

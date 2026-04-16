@@ -28,36 +28,36 @@ private:
     uint32_t m_periph; // 存储 USART0, USART1 等基地址
     uint32_t m_baud_rate;
 
-    void write(const char *data, size_t size);
+    void write(const char *data, size_t size) const;
 
 public:
     // 构造函数
     UartDevice(uint32_t usart_periph, uint32_t baud = 115200);
     ~UartDevice() {}
 
-    void init();    
+    void init() const;    
 
 
     // 重载 字符的 << 运算符
-    UartDevice& operator<<(char c);
+    const UartDevice& operator<<(char c) const;
 
     //重载 字符串的 << 运算符, 支持endl (换行符)
-    UartDevice& operator<<(const char* str);
+    const UartDevice& operator<<(const char* str) const;
 
         // 原有的十进制模板重载保持不变
     template <typename T>
-    typename std::enable_if<std::is_integral<T>::value, UartDevice&>::type
-    operator<<(T value);
+    typename std::enable_if<std::is_integral<T>::value, const UartDevice&>::type
+    operator<<(T value) const;
 
     // 新增：专门处理十六进制包装器的重载
     template <typename T>
-    UartDevice& operator<<(Conv::HexWrapper<T> hex);
+    const UartDevice& operator<<(Conv::HexWrapper<T> hex) const;
 };
 
 // 使用模板实现的函数，只能放在头文件中，否则会出现链接错误
 // 原有的十进制模板重载保持不变
 template <typename T>
-typename std::enable_if<std::is_integral<T>::value, UartDevice&>::type UartDevice::operator<<(T value) {
+typename std::enable_if<std::is_integral<T>::value, const UartDevice&>::type UartDevice::operator<<(T value) const {
     char buf[20];
     Conv::itoa(value, buf, 10);
     write(buf, strlen(buf));
@@ -66,7 +66,7 @@ typename std::enable_if<std::is_integral<T>::value, UartDevice&>::type UartDevic
 
 // 新增：专门处理十六进制包装器的重载
 template <typename T>
-UartDevice& UartDevice::operator<<(Conv::HexWrapper<T> hex) {
+const UartDevice& UartDevice::operator<<(Conv::HexWrapper<T> hex) const {
     char buf[20];
     write("0x", 2); // 自动补齐前缀
     Conv::itoa(hex.value, buf, 16); // 强制 16 进制

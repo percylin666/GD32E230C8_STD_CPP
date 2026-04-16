@@ -35,7 +35,7 @@ void I2CDevice::init() {
     i2c_ack_config(m_i2c_periph, I2C_ACK_ENABLE); // 使能 ACK
 }
 
-void I2CDevice::write(uint8_t device_addr, uint8_t reg_addr, uint8_t data) {
+void I2CDevice::write(uint8_t device_addr, uint8_t reg_addr, uint8_t data) const {
     // 1. 发送起始条件
     i2c_start_on_bus(m_i2c_periph);
     while (!i2c_flag_get(m_i2c_periph, I2C_FLAG_SBSEND));
@@ -57,7 +57,7 @@ void I2CDevice::write(uint8_t device_addr, uint8_t reg_addr, uint8_t data) {
     i2c_stop_on_bus(m_i2c_periph);
 }
 
-uint8_t I2CDevice::read(uint8_t device_addr, uint8_t reg_addr) {
+uint8_t I2CDevice::read(uint8_t device_addr, uint8_t reg_addr) const {
     uint8_t data = 0;
 
     // 1. 发送起始条件

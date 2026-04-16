@@ -21,7 +21,7 @@ private:
     KEY_EVENT m_key_event = KEY_EVENT::NONE; // 上一次的按键事件
 
     // 读取物理电平 (假设按下为低电平 RESET)
-    bool isPressed();
+    bool isPressed() const;
 
 public:
     Key(rcu_periph_enum periph_clock, uint32_t gpio_port, uint32_t gpio_pin, FlagStatus press_level = RESET);

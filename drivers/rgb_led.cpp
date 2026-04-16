@@ -15,3 +15,11 @@ void RGBLed::setColor(uint16_t r, uint16_t g, uint16_t b) {
     // Timer timer14(TIMER14, 1, TIMER_MODE::PWM);
     m_timer_b.setCompareValue(m_b_value);
 }
+
+void RGBLed::turnOff() {
+    // 将占空比设置为0
+    m_r_value = m_g_value = m_b_value = 0;
+    m_timer_r.setCompareValue(m_r_value);
+    m_timer_g.setCompareValue(m_g_value);
+    m_timer_b.setCompareValue(m_b_value);
+}

@@ -12,6 +12,6 @@ public:
     I2CDevice(uint32_t i2c_periph, uint32_t speed);
     ~I2CDevice() {}
 
-    void write(uint8_t device_addr, uint8_t reg_addr, uint8_t data);
-    uint8_t read(uint8_t device_addr, uint8_t reg_addr);
+    void write(uint8_t device_addr, uint8_t reg_addr, uint8_t data) const;
+    uint8_t read(uint8_t device_addr, uint8_t reg_addr) const;
 };

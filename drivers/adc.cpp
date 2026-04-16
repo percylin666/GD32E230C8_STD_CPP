@@ -49,7 +49,7 @@ void Adc::init() {
     adc_calibration_enable();
 }
 
-uint16_t Adc::readChannel(void) {
+uint16_t Adc::readChannel(void) const{
     /* 1. 软件触发转换 */
     adc_software_trigger_enable(ADC_REGULAR_CHANNEL);
     

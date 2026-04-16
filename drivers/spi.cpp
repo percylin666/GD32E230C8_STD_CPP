@@ -6,7 +6,7 @@ SpiDevice::SpiDevice(uint32_t spi_periph, uint32_t speed)
 }
 
 
-void SpiDevice::init() {
+void SpiDevice::init() const {
     // 1. 开启 SPI 时钟
     if (m_spi_periph == SPI0) {
         rcu_periph_clock_enable(RCU_SPI0);
@@ -62,7 +62,7 @@ void SpiDevice::init() {
     spi_enable(m_spi_periph);
 }
 
-void SpiDevice::nss_control(NSS_LEVEL level) {
+void SpiDevice::nss_control(NSS_LEVEL level) const {
     // 根据 m_spi_periph 控制对应的 NSS 引脚
     if (m_spi_periph == SPI0) {
         gpio_bit_write(GPIOA, GPIO_PIN_4, level == NSS_LEVEL::HIGH ? SET : RESET); // SPI0 的 NSS 在 PA4
@@ -71,7 +71,7 @@ void SpiDevice::nss_control(NSS_LEVEL level) {
     }
 }
 
-uint8_t SpiDevice::ReadWriteByte(uint8_t byte) {
+uint8_t SpiDevice::ReadWriteByte(uint8_t byte) const {
     while (spi_i2s_flag_get(m_spi_periph, SPI_FLAG_TBE) == RESET);
     spi_i2s_data_transmit(m_spi_periph, byte);
     while (spi_i2s_flag_get(m_spi_periph, SPI_FLAG_RBNE) == RESET);

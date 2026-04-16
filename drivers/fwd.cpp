@@ -17,6 +17,6 @@ void FWatchdog::init() {
     fwdgt_enable();
 }
 
-void FWatchdog::feed_dog(void) {
+void FWatchdog::feed_dog(void) const{
     fwdgt_counter_reload(); // 重装载寄存器重新加载，喂狗
 }

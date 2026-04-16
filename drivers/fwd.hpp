@@ -12,5 +12,5 @@ public:
     };
     ~FWatchdog() {}
 
-    void feed_dog(void);
+    void feed_dog(void) const;
 };

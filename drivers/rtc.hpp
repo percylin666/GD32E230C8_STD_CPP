@@ -22,5 +22,5 @@ public:
     ~Rtc() {}
 
     void set(RtcTime &set_time);
-    RtcTime& get(void);
+    const RtcTime& get(void) const;
 };

@@ -20,5 +20,5 @@ public:
 
     // ADC 相关函数
 
-    uint16_t readChannel(void);
+    uint16_t readChannel(void) const;
 };

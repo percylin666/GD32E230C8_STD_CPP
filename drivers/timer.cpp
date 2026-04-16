@@ -5,7 +5,7 @@ Timer::Timer(uint32_t timer_periph, uint32_t period_ms, TIMER_MODE mode)
     init();
 }
 
-void Timer::init() {
+void Timer::init() const {
     // 1. 先开启时钟并复位
     if (m_timer_periph == TIMER0) rcu_periph_clock_enable(RCU_TIMER0);
     else if (m_timer_periph == TIMER2) rcu_periph_clock_enable(RCU_TIMER2);
@@ -102,17 +102,17 @@ void Timer::setCompareValue(uint32_t compare_value) {
     }
 }
 
-void Timer::start() {
+void Timer::start() const {
     // 启动定时器
     timer_enable(m_timer_periph);
 }
 
-void Timer::stop() {
+void Timer::stop() const {
     // 停止定时器
     timer_disable(m_timer_periph);
 }
 
-void Timer::reset() {
+void Timer::reset() const {
     // 重置定时器
     timer_disable(m_timer_periph);
     timer_counter_value_config(m_timer_periph, 0);

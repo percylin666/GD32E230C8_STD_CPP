@@ -1,6 +1,6 @@
 #include "wwd.hpp"
 
-void WWatchdog::init() {
+void WWatchdog::init() const {
     /* 1 开启时钟 */
     rcu_periph_clock_enable(RCU_WWDGT);
 
@@ -23,7 +23,7 @@ void WWatchdog::init() {
     */
 }
 
-void WWatchdog::feed_dog(void) {
+void WWatchdog::feed_dog(void) const {
     /* 喂狗，重装载计数器 */
     wwdgt_counter_update(m_counter_value);
 }

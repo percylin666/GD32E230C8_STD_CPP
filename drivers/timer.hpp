@@ -15,7 +15,7 @@ private:
 
     uint32_t m_compare_value = 0; // PWM 模式下的比较值 1-1000 LED灯只需要1-500
 
-    void init();
+    void init() const;
 
 public:
     // 构造函数
@@ -24,7 +24,7 @@ public:
 
     void setCompareValue(uint32_t compare_value);
 
-    void start();
-    void stop();
-    void reset();
+    void start() const;
+    void stop() const;
+    void reset() const;
 };

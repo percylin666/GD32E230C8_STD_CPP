@@ -90,7 +90,7 @@ void Rtc::set(RtcTime &set_time) {
     }
 }
 
-RtcTime& Rtc::get(void) {
+const RtcTime& Rtc::get(void) const{
     static RtcTime current_time;
     rtc_parameter_struct rtc_get_struct;
     rtc_current_time_get(&rtc_get_struct);

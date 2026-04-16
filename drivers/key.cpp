@@ -1,7 +1,7 @@
 #include "key.hpp"
 #include "system.h"
 
-bool Key::isPressed() {
+bool Key::isPressed() const{
 
     if (m_press_level == RESET) {
         // 按下时为低电平
