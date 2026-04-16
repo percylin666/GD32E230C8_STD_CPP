@@ -27,5 +27,5 @@ public:
 
     void write(bool ledStatus);
     void toggle();
-    bool& read();
+    bool read() const;
 };

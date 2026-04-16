@@ -28,6 +28,6 @@ void Led::toggle() {
     m_LedStatus = !m_LedStatus;
 }
 
-bool& Led::read() {
+bool Led::read() const {
     return m_LedStatus;
 }
