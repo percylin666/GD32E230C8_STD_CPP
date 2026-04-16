@@ -1,6 +1,6 @@
 #include "uart.hpp"
 
-void UartDevice::init() const{
+void UartDevice::init() const {
     if (m_periph == USART0) {
         rcu_periph_clock_enable(RCU_USART0);
         rcu_periph_clock_enable(RCU_GPIOA); // USART0 的 TX/RX PA9/PA10
@@ -13,7 +13,8 @@ void UartDevice::init() const{
         gpio_output_options_set(GPIOA, GPIO_OTYPE_PP, GPIO_OSPEED_50MHZ, GPIO_PIN_9);
         gpio_mode_set(GPIOA, GPIO_MODE_AF, GPIO_PUPD_PULLUP, GPIO_PIN_10);
         gpio_output_options_set(GPIOA, GPIO_OTYPE_PP, GPIO_OSPEED_50MHZ, GPIO_PIN_10);
-    } else if (m_periph == USART1) {
+    }
+    else if (m_periph == USART1) {
         rcu_periph_clock_enable(RCU_USART1);
         rcu_periph_clock_enable(RCU_GPIOA); // USART1 的 TX/RX PA2/PA3
         // 配置 PA2 (TX), PA3 (RX)

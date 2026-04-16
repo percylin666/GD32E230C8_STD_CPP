@@ -44,7 +44,7 @@ public:
     //重载 字符串的 << 运算符, 支持endl (换行符)
     const UartDevice& operator<<(const char* str) const;
 
-        // 原有的十进制模板重载保持不变
+    // 原有的十进制模板重载保持不变
     template <typename T>
     typename std::enable_if<std::is_integral<T>::value, const UartDevice&>::type
     operator<<(T value) const;
