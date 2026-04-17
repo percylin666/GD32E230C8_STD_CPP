@@ -56,4 +56,31 @@ void itoa(T value, char* str, int base) {
     }
 }
 
+inline void ftoa(float value, char* str, int precision = 4) {
+    if (precision < 0) precision = 0;
+    if (precision > 6) precision = 6; // 限制精度范围
+
+    if (value < 0) {
+        *str++ = '-';
+        value = -value;
+    }
+
+    uint32_t ipart = (uint32_t)value;
+    itoa(ipart, str, 10);
+
+    if (precision > 0) {
+        char* ptr = str + strlen(str);
+        *ptr++ = '.'; // 添加小数点
+
+        float fpart = value - (float)ipart;
+        for (int i = 0; i < precision; ++i) {
+            fpart *= 10;
+            uint32_t digit = (uint32_t)fpart;
+            *ptr++ = char('0' + digit);
+            fpart -= (float)digit;
+        }
+        *ptr = '\0';
+    }
+}
+
 } // namespace Conv

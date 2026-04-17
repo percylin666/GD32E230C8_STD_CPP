@@ -60,3 +60,19 @@ const UartDevice& UartDevice::operator<<(const char* str) const {
     write(str, strlen(str));
     return *this;
 }
+
+const UartDevice& UartDevice::operator<<(const Raw::RawData& raw) const {
+    write((const char*)(raw.data), raw.size);
+    return *this;
+}
+
+const UartDevice& UartDevice::operator<<(float value) const {
+    char buf[32];
+    Conv::ftoa(value, buf, 6); // 默认保留 6 位小数
+    write(buf, strlen(buf));
+    return *this;
+}
+
+const UartDevice& UartDevice::operator<<(double value) const {
+    return *this << (float)value; 
+}
