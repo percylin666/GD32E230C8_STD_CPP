@@ -253,8 +253,7 @@ int main(void) {
                         
                 uart0 << 0xFF << " " << Conv::to_hex(0xFE) << " " << 0xFD << " " << Conv::to_hex(0xFC) << "\r\n"; // 直接输出十六进制数测试
                 
-                double test_float = 3.141592;
-                
+                double test_float = 3.141592;                
                 uart0 << test_float << "\r\n"; // 浮点数测试
                 
                 watchdog.feed_dog(); // 喂狗
