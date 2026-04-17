@@ -1,7 +1,8 @@
 #include "spi.hpp"
 
-SpiDevice::SpiDevice(uint32_t spi_periph, uint32_t speed)
-    : m_spi_periph(spi_periph), m_speed(speed) {
+SpiDevice::SpiDevice(uint32_t spi_periph, uint32_t speed) :
+    m_spi_periph(spi_periph), 
+    m_speed(speed) {
     init();
 }
 

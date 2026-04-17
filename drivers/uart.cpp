@@ -39,7 +39,9 @@ void UartDevice::init() const {
 }
 
 
-UartDevice::UartDevice(uint32_t usart_periph, uint32_t baud) : m_periph(usart_periph), m_baud_rate(baud) {
+UartDevice::UartDevice(uint32_t usart_periph, uint32_t baud) :
+    m_periph(usart_periph), 
+    m_baud_rate(baud) {
     init();
 }
 

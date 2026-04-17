@@ -1,7 +1,10 @@
 #include "exti.hpp"
 
-Exti::Exti(rcu_periph_enum periph_clock, uint32_t port_source, uint32_t pin_source, exti_trig_type_enum trigger)
-    : m_periph_clock(periph_clock), m_port_source(port_source), m_pin_source(pin_source), m_trigger(trigger) {
+Exti::Exti(rcu_periph_enum periph_clock, uint32_t port_source, uint32_t pin_source, exti_trig_type_enum trigger) :
+    m_periph_clock(periph_clock), 
+    m_port_source(port_source), 
+    m_pin_source(pin_source), 
+    m_trigger(trigger) {
     init();
 }
 

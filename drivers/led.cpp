@@ -1,10 +1,13 @@
 #include "led.hpp"
 
-Led::Led(rcu_periph_enum periph_clock, uint32_t gpio_port, uint32_t gpio_pin, LED_INIT_STATUS initial_status) 
-    : m_periph_clock(periph_clock), m_gpio_port(gpio_port), m_gpio_pin(gpio_pin), m_LedInitStatus(initial_status) {
+Led::Led(rcu_periph_enum periph_clock, uint32_t gpio_port, uint32_t gpio_pin, LED_INIT_STATUS initial_status) :
+    m_periph_clock(periph_clock), 
+    m_gpio_port(gpio_port), 
+    m_gpio_pin(gpio_pin), 
+    m_LedInitStatus(initial_status) {
     init();
 }
-
+    
 void Led::init() {
     // 1. 开启 GPIO 时钟
     rcu_periph_clock_enable(m_periph_clock);

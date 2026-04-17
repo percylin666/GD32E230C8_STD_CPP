@@ -1,7 +1,9 @@
 #include "timer.hpp"
 
-Timer::Timer(uint32_t timer_periph, uint32_t period_ms, TIMER_MODE mode)
-    : m_timer_periph(timer_periph), m_period(period_ms), m_mode(mode) {
+Timer::Timer(uint32_t timer_periph, uint32_t period_ms, TIMER_MODE mode) :
+    m_timer_periph(timer_periph), 
+    m_period(period_ms), 
+    m_mode(mode) {
     init();
 }
 

@@ -13,8 +13,11 @@ bool Key::isPressed() const{
     }
 }
 
-Key::Key(rcu_periph_enum periph_clock, uint32_t gpio_port, uint32_t gpio_pin, FlagStatus press_level)
-    : m_periph_clock(periph_clock), m_gpio_port(gpio_port), m_gpio_pin(gpio_pin), m_press_level(press_level) {
+Key::Key(rcu_periph_enum periph_clock, uint32_t gpio_port, uint32_t gpio_pin, FlagStatus press_level) :
+    m_periph_clock(periph_clock), 
+    m_gpio_port(gpio_port), 
+    m_gpio_pin(gpio_pin), 
+    m_press_level(press_level) {
     // 1. 开启 GPIO 时钟
     rcu_periph_clock_enable(m_periph_clock);
 

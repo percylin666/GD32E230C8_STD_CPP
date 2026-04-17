@@ -1,7 +1,8 @@
 #include "i2c.hpp"
 
-I2CDevice::I2CDevice(uint32_t i2c_periph, uint32_t speed)
-    : m_i2c_periph(i2c_periph), m_speed(speed) {
+I2CDevice::I2CDevice(uint32_t i2c_periph, uint32_t speed) :
+    m_i2c_periph(i2c_periph), 
+    m_speed(speed) {
     init();
 }
 
