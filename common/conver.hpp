@@ -18,7 +18,7 @@ HexWrapper<T> to_hex(T val) { return {val}; }
  * @tparam T 整数类型 (int, long, uint32_t 等)
  */
 template <typename T>
-void itoa(T value, char* str, int base) {
+inline void itoa(T value, char* str, int base) {
     if (base < 2 || base > 36) {
         *str = '\0';
         return;
