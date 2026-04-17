@@ -1,5 +1,11 @@
 #pragma once
 
+/*
+* @file conver.hpp
+* @brief 提供整数和浮点数转换为字符串的函数
+* @author [补锅匠]
+*/
+
 #include <type_traits>
 
 namespace Conv {
