@@ -245,9 +245,16 @@ int main(void) {
                 led2.toggle();
 
                 task_cnt++;
-                uart0 << "Hello, GD32E23x! count: " << (int)task_cnt << " | " << Conv::to_hex(task_cnt) << " | " << Raw::makeRaw((const uint8_t*)&task_cnt, sizeof(task_cnt)) << "\r\n"; // 输出计数器值和一个十六进制数
+                uart0   << "Hello, GD32E23x! count: " 
+                        << (int)task_cnt << " | " 
+                        << Conv::to_hex(task_cnt) << " | " 
+                        << Raw::makeRaw((const uint8_t*)&task_cnt, sizeof(task_cnt)) 
+                        << "\r\n";
+                        
                 uart0 << 0xFF << " " << Conv::to_hex(0xFE) << " " << 0xFD << " " << Conv::to_hex(0xFC) << "\r\n"; // 直接输出十六进制数测试
+                
                 double test_float = 3.141592;
+                
                 uart0 << test_float << "\r\n"; // 浮点数测试
                 
                 watchdog.feed_dog(); // 喂狗
