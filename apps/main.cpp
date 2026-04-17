@@ -158,7 +158,7 @@ int main(void) {
                     if (is_fading_up) {
                         // --- 上升阶段 ---
                         rgb_tab[0] += rgb_val++; 
-                        if (rgb_tab[0] >= 400) {
+                        if (rgb_tab[0] >= 200) {
                             is_fading_up = 0; // 触顶，切换到下降模式
                             // 注意：此时 rgb_val 保持当前最大值，不重置
                         }
@@ -185,7 +185,7 @@ int main(void) {
                     if (is_fading_up) {
                         // --- 上升阶段 ---
                         rgb_tab[1] += rgb_val++; 
-                        if (rgb_tab[1] >= 400) {
+                        if (rgb_tab[1] >= 200) {
                             is_fading_up = 0; // 触顶，切换到下降模式
                             // 注意：此时 rgb_val 保持当前最大值，不重置
                         }
@@ -212,7 +212,7 @@ int main(void) {
                     if (is_fading_up) {
                         // --- 上升阶段 ---
                         rgb_tab[2] += rgb_val++; 
-                        if (rgb_tab[2] >= 400) {
+                        if (rgb_tab[2] >= 200) {
                             is_fading_up = 0; // 触顶，切换到下降模式
                             // 注意：此时 rgb_val 保持当前最大值，不重置
                         }
